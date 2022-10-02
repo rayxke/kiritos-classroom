@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+    </div>
+    <div class="cms mw6">
+      <p>{{ .Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ .Content }}
+      <a href="https://www.w3schools.com/">Assignment 1: Powerpoint Presentation (Due 9/30)</a>
+
+      <br>
+
+      <a href="https://inbox.weiyun.com/3kr0rtnq">Assignment 2: Research Paper (Due 11/11)</a>
+
+      <br>
+
+      <a href="https://inbox.weiyun.com/cGzP3M8j">Assignment 3: Compare and Contrast Essay (Due 12/12)</a>
+
+      <br>
+      
+      <a href="https://inbox.weiyun.com/5GTOh8ap">Assignment 4: Debate Presentation (Due 12/12)</a>
+    </div>
+  </div>
+{{ end }}
