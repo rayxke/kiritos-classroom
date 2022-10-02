@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Kirito's Classroom"
+subtitle: All Class Information is Here!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?

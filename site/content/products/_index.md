@@ -1,6 +1,6 @@
 ---
-title: Our Coffee
-type: products
+title: 10C English
+type: 10C English
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
