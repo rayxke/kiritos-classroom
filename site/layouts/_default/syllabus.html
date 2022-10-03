@@ -8,6 +8,7 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      {{partial "table"}}
     </div>
   </div>
 {{ end }}

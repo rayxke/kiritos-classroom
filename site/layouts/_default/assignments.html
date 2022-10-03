@@ -8,19 +8,10 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-      <a href="https://www.w3schools.com/">Assignment 1: Powerpoint Presentation (Due 9/30)</a>
-
-      <br>
-
-      <a href="https://inbox.weiyun.com/3kr0rtnq">Assignment 2: Research Paper (Due 11/11)</a>
-
-      <br>
-
-      <a href="https://inbox.weiyun.com/cGzP3M8j">Assignment 3: Compare and Contrast Essay (Due 12/12)</a>
-
-      <br>
-      
-      <a href="https://inbox.weiyun.com/5GTOh8ap">Assignment 4: Debate Presentation (Due 12/12)</a>
+      {{ range .Params.intro.blurbs }}
+        <a href="{{.link}}"> {{.text}}</a>
+        <br>
+      {{ end }}
     </div>
   </div>
 {{ end }}

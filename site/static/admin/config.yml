@@ -68,7 +68,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
           - {label: Full_image, name: full_image, widget: image}
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-       - file: "site/content/products/assignments.md"
+       - file: "site/content/10C-english/assignments.md"
         label: "10C Assignments Page"
         name: "10C Assignments Page"
         fields:
