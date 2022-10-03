@@ -2,7 +2,6 @@
 title: 10C Syllabus
 layout: syllabus
 description: >-
-  In this course we will follow this syllabus.
 
 ---
 ## Grading
@@ -16,5 +15,6 @@ description: >-
 
 ## Course Objectives
   The overarching goal of this course is to improve your ability to communicate in English, both oral and written aspects. To that end we will have different course activities to help strengthen communication abilities and reinforce what you have already learned.
+
  
  

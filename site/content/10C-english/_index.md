@@ -1,7 +1,7 @@
 ---
 title: 10C English
 type: 10C English
-image: /img/products-jumbotron.jpg
+image: /img/detective-pikachu-dance.gif
 heading: Class Goals
 description: >-
   The overarching goal of this course is to improve your ability to communicate in English, both oral and written aspects. To that end we will have different course activities to help strengthen communication abilities and reinforce what you have already learned.
