@@ -20,6 +20,29 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 1 (Video Rebuttal)
+      link: https://inbox.weiyun.com/6nIlf2O0
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+       Homework 4 
       link: 10C-english/powerpoints
- 
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Homework 5
+      link: 10C-english/powerpoints
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Homework 6
+      link: 10C-english/powerpoints
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Homework 7
+      link: 10C-english/powerpoints
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Homework 8
+      link: 10C-english/powerpoints
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Assignment 2
+      link: https://inbox.weiyun.com/SjzmIKjn
 ---

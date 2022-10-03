@@ -8,7 +8,7 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         Assignment 1 (Due 9/30)
-      link: https://www.pokemon.com/
+      link: https://inbox.weiyun.com/1YqYHsDG
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Assignment 2 (Due 11/11)

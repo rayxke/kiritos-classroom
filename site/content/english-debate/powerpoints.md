@@ -1,7 +1,7 @@
 ---
-title: 10C Powerpoints
+title: English Debate Resources
 layout: powerpoints
 description: >-
-  Find Powerpoint here! :)
+  I will post the different resources we use in class here! Mostly videos and ppts. :)
 
 ---

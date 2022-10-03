@@ -2,7 +2,7 @@
 title: English Debate
 type: English Debate
 image: /img/products-jumbotron.jpg
-heading: Class Goals
+heading: Everything You Need Here!
 description: >-
   The overarching goal of this course is to improve your ability to communicate in English, both oral and written aspects. To that end we will have different course activities to help strengthen communication abilities and reinforce what you have already learned.
 intro:
@@ -21,10 +21,6 @@ intro:
       link: english-debate/schedule
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Powerpoints
+        Resources
       link: english-debate/powerpoints
-  heading: Class Goals
-  description: >
-    The overarching goal of this course is to improve your ability to communicate in English, both oral and written aspects. To that end we will have different course activities to help strengthen communication abilities and reinforce what you have already learned.
- 
 ---

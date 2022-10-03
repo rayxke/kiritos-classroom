@@ -1,7 +1,7 @@
 ---
-title: 10C Schedule
+title: English Debate Schedule
+layout: schedule
 description: >-
-  Please use the following links to submit assignments.
  
 ---
 

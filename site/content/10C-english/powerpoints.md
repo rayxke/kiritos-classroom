@@ -1,7 +1,7 @@
 ---
-title: 10C Powerpoints
+title: 10C Resources
 layout: powerpoints
 description: >-
-  Find Powerpoint here! :)
+  I will post class resources here! :)
 
 ---
