@@ -7,18 +7,18 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Assignment 1 (Due 9/30)
+        Assignment 1
       link: https://inbox.weiyun.com/1YqYHsDG
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Assignment 2 (Due 11/11)
+        Assignment 2
       link: https://inbox.weiyun.com/3kr0rtnq
     - image: /img/illustrations-tutorials.svg
       text: >
-        Assignment 3 (Due 11/28)
+        Assignment 3
       link: https://inbox.weiyun.com/cGzP3M8j
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 4 (Due 12/12)
+        Assignment 4
       link: https://inbox.weiyun.com/5GTOh8ap
 ---

@@ -8,10 +8,17 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      
       {{ range .Params.intro.blurbs }}
-        <a href="{{.link}}"> {{.text}}</a>
-        <br>
+      <div class="ph2-ns w-50-ns mb4">
+        <a href="{{.link}}"> 
+          <button class="btn btn-default btn-lg"> 
+          {{.text}}
+          </button>
+        </a> 
+      </div>   
       {{ end }}
+      
     </div>
   </div>
 {{ end }}
