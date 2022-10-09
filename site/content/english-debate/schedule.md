@@ -16,7 +16,7 @@ description: >-
 |  5 |  9/19-9/23           | Drugs in Sports ||
 |  6 |  9/26-9/30           | Gender | HW3|
 |  7 |  10/3-10/7           | **NO CLASS** ||
-|  8 |  10/10-10/14         | Gender ||
+|  8 |  10/10-10/14         | Gender |[Proposal](english-debate/proposal)|
 |  9 |  10/17-10/21         | Topic 4||
 |  10 |  10/24-10/28         | **Midterm Exams** |[Assignment 1](english-debate/assignment1)|
 |  11 |  10/31-11/4         | Topic 4||

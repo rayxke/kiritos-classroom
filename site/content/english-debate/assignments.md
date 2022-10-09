@@ -28,6 +28,12 @@ intro:
       link: https://forms.office.com/r/Jw9Mb0fxR6
     - image: /img/illustrations-meeting-space.svg
       text: >
+        Proposal
+      subject: >
+        (For Assignment 1)
+      link: english-debate/proposal
+    - image: /img/illustrations-meeting-space.svg
+      text: >
         Assignment 1
       subject: > 
         (Video Rebuttal)
