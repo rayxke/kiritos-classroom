@@ -18,7 +18,7 @@ description: >-
 |  7 |  10/3-10/7           | **NO CLASS** ||
 |  8 |  10/10-10/14         | Gender ||
 |  9 |  10/17-10/21         | Topic 4||
-|  10 |  10/24-10/28         | **Midterm Exams** |[Assignment 1](https://inbox.weiyun.com/6nIlf2O0 )|
+|  10 |  10/24-10/28         | **Midterm Exams** |[Assignment 1](english-debate/assignment1)|
 |  11 |  10/31-11/4         | Topic 4||
 | 12  |  11/7-11/11          | Topic 5 ||
 | 13 |  11/14-11/18         | Topic 5 |
@@ -26,7 +26,7 @@ description: >-
 | 15 |  11/28-12/2          | Topic 6 |
 | 16 |  12/5-12/9           | Topic 7 ||
 | 17 |  12/12-12/16         | Topic 7 & Review |
-| 18 |  12/19-12/23         | **Final Exam** |[Assignment 2](https://inbox.weiyun.com/SjzmIKjn )|
+| 18 |  12/19-12/23         | **Final Exam** |[Assignment 2](english-debate/assignment2)|
 | 19 |  12/26-12/30         | Review |
 | 20 |  1/2-1/6             | Review |
 | 21 |  1/9-1/12            | Review |

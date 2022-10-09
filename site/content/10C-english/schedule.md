@@ -15,15 +15,15 @@ description: >-
 |  5 |  9/19-9/23           | Unit 8 Part A |          |
 |  6 |  9/26-9/30           | Unit 8 Part B |          |
 |  7 |  10/3-10/7           | **NO CLASS** |        |
-|  8 |  10/10-10/14         | **Presentations** |[Assignment 1](https://inbox.weiyun.com/1YqYHsDG)|
+|  8 |  10/10-10/14         | **Presentations** |[Assignment 1](10C-english/assignment1/)|
 |  9 |  10/17-10/21         | Self-Study |          |
 |  10 |  10/24-10/28         | Midterm Exams |      |
 |  11 |  10/31-11/4         |  Unit 8 Part C, Writing Process & MLA Format | Outline & Annotated Bibliography|
-| 12  |  11/7-11/11          | Unit 8 Part D & Research Writing |[Assignment 2](https://inbox.weiyun.com/3kr0rtnq)|
+| 12  |  11/7-11/11          | Unit 8 Part D & Research Writing |[Assignment 2](10C-english/assignment2/)|
 | 13 |  11/14-11/18         | Unit 9 Part A & Thesis Writing | Thesis & Outline |
-| 14 |  11/21-11/25         | Unit 9 Part B & Compare and Contrast | [Assignment 3](https://inbox.weiyun.com/cGzP3M8j)|
+| 14 |  11/21-11/25         | Unit 9 Part B & Compare and Contrast | [Assignment 3]()|
 | 15 |  11/28-12/2          | Unit 9 Part C & Presentation Techniques |             |
-| 16 |  12/5-12/9           | **Presentations** |[Assignment 4](https://inbox.weiyun.com/5GTOh8ap)
+| 16 |  12/5-12/9           | **Presentations** |[Assignment 4]()
 | 17 |  12/12-12/16         | Self-Study |             |
 | 18 |  12/19-12/23         | Final Exam |          |
 | 19 |  12/26-12/30         | Review |              |
