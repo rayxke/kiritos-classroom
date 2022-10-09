@@ -7,42 +7,64 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Homework 1 (Alcohol Prohibition)
+        Homework 1  
+      subject: > 
+        (Alcohol Prohibition)
+      disabled: ""
       link: https://forms.office.com/r/NQGMZW9d1c
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Homework 2 (Performance Enhancing Drugs)
+        Homework 2 
+      subject: > 
+        (Performance Enhancing Drugs)
+      disabled: ""
       link: https://forms.office.com/r/Xuk5B6sJjd
     - image: /img/illustrations-tutorials.svg
       text: >
-        Homework 3 (Gender)
+        Homework 3 
+      subject: > 
+        (Gender)
+      disabled: ""
       link: https://forms.office.com/r/Jw9Mb0fxR6
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 1 (Video Rebuttal)
+        Assignment 1
+      subject: > 
+        (Video Rebuttal)
       link: https://inbox.weiyun.com/6nIlf2O0
     - image: /img/illustrations-meeting-space.svg
       text: >
        Homework 4 
-      link: 10C-english/powerpoints
+      subject: > 
+        (Topic 4: TBD)
+      disabled: "disabled"
+      link: https://forms.office.com/r/Lx5tr9JDu3
     - image: /img/illustrations-meeting-space.svg
       text: >
         Homework 5
-      link: 10C-english/powerpoints
+      subject: > 
+        (Topic 5: TBD)
+      disabled: "disabled"
+      link: https://forms.office.com/r/Lx5tr9JDu3
     - image: /img/illustrations-meeting-space.svg
       text: >
         Homework 6
-      link: 10C-english/powerpoints
+      subject: > 
+        (Topic 6: TBD)
+      disabled: "disabled"
+      link: https://forms.office.com/r/Lx5tr9JDu3
     - image: /img/illustrations-meeting-space.svg
       text: >
         Homework 7
-      link: 10C-english/powerpoints
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        Homework 8
-      link: 10C-english/powerpoints
+      subject: > 
+        (Topic 7: TBD)
+      disabled: "disabled"
+      link: https://forms.office.com/r/Lx5tr9JDu3
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 2
+      subject: > 
+        (Final Project)
+      disabled: "disabled"
       link: https://inbox.weiyun.com/SjzmIKjn
 ---
