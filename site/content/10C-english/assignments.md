@@ -2,23 +2,27 @@
 title: 10C Assignments
 layout: assignments
 description: >-
-  Please use the following links to submit assignments.
+  The following links contain assignment descriptions.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
         Assignment 1
-      link: https://inbox.weiyun.com/1YqYHsDG
+      link: 10C-english/assignment1/
+      disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Assignment 2
-      link: https://inbox.weiyun.com/3kr0rtnq
+      link: 10C-english/assignment2/
+      disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
         Assignment 3
-      link: https://inbox.weiyun.com/cGzP3M8j
+      link: 10C-english/assignment3/
+      disabled: disabled
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 4
-      link: https://inbox.weiyun.com/5GTOh8ap
+      link: 10C-english/assignment4/
+      disabled: disabled
 ---

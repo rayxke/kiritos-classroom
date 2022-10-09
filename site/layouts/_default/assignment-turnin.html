@@ -6,20 +6,18 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
-      
-      {{ range .Params.intro.blurbs }}
-      {{if not (.disabled)}}
       <div class="ph2-ns w-50-ns mb4" style="position: center;">
-        <a href="{{.link}}"> 
+        <a href="{{.Params.link}}"> 
           <button class="btn btn-default btn-lg" style="font-size: larger; width: 300px;"> 
-          {{.text}} <br> {{.subject}}
+          {{.Params.text}}
           </button>
         </a> 
-      </div>   
-      {{end}}
-      {{ end }}
+      </div> 
+      <!---->
+      {{ .Content }}
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+  
+        
       
     </div>
   </div>

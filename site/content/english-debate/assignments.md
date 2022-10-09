@@ -10,28 +10,28 @@ intro:
         Homework 1  
       subject: > 
         (Alcohol Prohibition)
-      disabled: ""
+      disabled:
       link: https://forms.office.com/r/NQGMZW9d1c
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Homework 2 
       subject: > 
         (Performance Enhancing Drugs)
-      disabled: ""
+      disabled:
       link: https://forms.office.com/r/Xuk5B6sJjd
     - image: /img/illustrations-tutorials.svg
       text: >
         Homework 3 
       subject: > 
         (Gender)
-      disabled: ""
+      disabled:
       link: https://forms.office.com/r/Jw9Mb0fxR6
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 1
       subject: > 
         (Video Rebuttal)
-      link: https://inbox.weiyun.com/6nIlf2O0
+      link: english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
        Homework 4 
@@ -66,5 +66,5 @@ intro:
       subject: > 
         (Final Project)
       disabled: "disabled"
-      link: https://inbox.weiyun.com/SjzmIKjn
+      link: english-debate/assignment2
 ---
