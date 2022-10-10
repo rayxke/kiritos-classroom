@@ -16,6 +16,8 @@ image:
 3. The Powerpoint should be no more than 10 slides.
 4. The Powerpoint should NOT contain full sentences. 
 5. It should contain visual aids and short prompts to remind you of what to talk about.
+
+---
 ## Grading
 - Submit the PPT on Time
     - Submit on 9/30 AND bring it to class on a USB
@@ -29,7 +31,8 @@ image:
 - Volume
     - Make sure to speak loud enough for me and your classmates to hear you
 
-***Friendly reminder: Remember to rehearse your presentation!***
+---
+## ***Friendly reminder: Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
