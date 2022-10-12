@@ -18,18 +18,28 @@ image:
 5. It should contain visual aids and short prompts to remind you of what to talk about.
 
 ---
-## Grading
+## Grading (20 pts.)
 - Submit the PPT on Time
     - Submit on 9/30 AND bring it to class on a USB
-- Cite sources 
+- Powerpoint **(5 pts.)**
+    - Did you follow the guidelines we discussed in class?
+    - Appropriate visual aid in powerpoint
+- Ideas & Organization **(5 pts.)**
     - Cite at least **three** sources for your presentation
-- Eye Contact
-    - Do not read from script
-- Pronunciation
-    - If it effects my understanding I will lower your grade
+    - Do the sources cited provide relevant information?
+    - Does the presentation follow a logical order?
+- Pronunciation **(5 pts.)**
+    - If it effects my understanding I will lower your grade.
     - Look up the words you will use before presenting! 
-- Volume
-    - Make sure to speak loud enough for me and your classmates to hear you
+- Delivery **(5 pts.)**
+    - Eye Contact
+        - Do not read from a script
+    - Volume
+        - Make sure to speak loud enough for me and your classmates to hear you
+    - Time
+        - Does the presentation satisfy time requirements? (Minimum)
+        - Is time used effectively in the presentation? 
+    
 
 ---
 ## ***Remember to rehearse your presentation!***

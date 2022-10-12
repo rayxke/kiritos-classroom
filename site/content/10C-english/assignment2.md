@@ -18,18 +18,28 @@ image:
 Assignment 2 is a research paper. You can turn the presentation from Assignment 1 into a research paper. However you may also research a different career. The choice is yours!
 
 ---
-## Grading
-- Submit the Paper on Time
+## Grading (20 pts.)
+- Submit the Paper on Time!
     - Submit on 11/11
-- Cite at least **three** sources for your paper
-- The paper should be in MLA Format
-- **No Papago** 
-    - Seriously. Don't do it. Just ask me for help instead! :)
-- Grammar and Punctation
+    - Penalty for late submissions!
+- Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.
+- Ideas & Organization **(10 pts.)**
+    - How well do your researched points support the ideas that you introduce? 
+    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
+    - Cite at least **three** sources for your paper
+    - The paper should be in MLA Format 
+- Linguistic Capability **(5 pts.)**
+    - Exceptional use of vocabulary
+    - Proper use of idiomatic expressions
+- Appropriate Length **(2.5 pts.)**
+    - This essay should meet the minimum length requirements (5 paragraphs; 700-800 words)
+- **No Papago (Or other translation software)** 
+    - If I find out you used Papago *you will get a zero* ;)
+    - Seriously. Don't do it. Just ask me for help instead! :)
 ---
 
-***Remember to proofread your paper!***
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 
