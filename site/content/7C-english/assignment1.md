@@ -17,7 +17,7 @@ image:
 ## Instructions
 The first written assignment is a short essay. It will be an in class writing assignment, however you *are* allowed to prepare ahead of time. 
 1. Choose any of the topics that we have written about this semester and turn it into an essay.
-2. The essay should be **three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
+2. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
 3. When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
     * Example 7C1_070155_Keary.docx
 

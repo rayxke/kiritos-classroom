@@ -46,5 +46,5 @@ image:
 
 Me: But Keary I presented why is my grade so low?
 
-Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts.
+Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts?
 
