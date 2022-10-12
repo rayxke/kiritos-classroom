@@ -4,8 +4,12 @@ layout: assignment-turnin
 description: >-
 text: >
     Submit Assignment 1
+text2:
+    Download Template
 link: 
     https://inbox.weiyun.com/ogktNPqg
+download:
+    /docs/MiddleSchoolEssayTemplate.docx
 image: 
     /img/surprised-pikachu.jpeg
 ---

@@ -29,7 +29,7 @@ image:
 - Volume
     - Make sure to speak loud enough for me to hear you
 
-***Friendly reminder: Remember to rehearse your presentation!***
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 

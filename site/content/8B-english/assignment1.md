@@ -4,8 +4,12 @@ layout: assignment-turnin
 description: >-
 text: >
     Submit Assignment 1
+text2:
+    Download Template
 link: 
-    https://inbox.weiyun.com/SwjJgkXH
+    https://inbox.weiyun.com/ogktNPqg
+download:
+    /docs/MiddleSchoolEssayTemplate.docx
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -36,7 +40,7 @@ The first written assignment is a short essay. It will be an in class writing as
     - Seriously. Don't do it. You will get a zero on the assignment.
 
 ---
-## ***Friendly reminder: Remember to rehearse your presentation!***
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 

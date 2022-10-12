@@ -32,7 +32,7 @@ image:
     - Make sure to speak loud enough for me and your classmates to hear you
 
 ---
-## ***Friendly reminder: Remember to rehearse your presentation!***
+## ***Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
