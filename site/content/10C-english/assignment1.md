@@ -37,10 +37,8 @@ image:
     - Volume
         - Make sure to speak loud enough for me and your classmates to hear you
     - Time
-        - Does the presentation satisfy time requirements? (Minimum)
+        - Does the presentation satisfy time requirements?
         - Is time used effectively in the presentation? 
-    
-
 ---
 ## ***Remember to rehearse your presentation!***
 
