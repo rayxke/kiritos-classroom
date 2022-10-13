@@ -3,12 +3,12 @@
 		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
 		<p class="mb4 mw6">{{.description}}</p>
 
-		<div class="flex-ns flex-wrap mhn2-ns mb3 w-100">
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .blurbs }}
-				<div class="ph2-ns mb4 w-25">
+				<div class="ph2-ns mb4">
 					<a href="{{ .link }}" >
-					<button class="btn btn-default btn-lg w-100"> 
-					<img src="{{ .image }}" alt="" class="w-100">
+					<button class="btn btn-default btn-lg w-25"> 
+					<img src="{{ .image }}" alt="" class="w-25">
 					{{.text}}
 					</button>
 					</a>
