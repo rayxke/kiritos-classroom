@@ -7,7 +7,7 @@ text: >
 text2:
     Download Template
 link: 
-    https://inbox.weiyun.com/ogktNPqg
+    https://inbox.weiyun.com/SwjJgkXH
 download:
     /docs/MiddleSchoolEssayTemplate.docx
 image: 
