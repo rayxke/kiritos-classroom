@@ -17,7 +17,6 @@ image:
     /img/surprised-pikachu.jpeg
 ---
 ---
-## Grading
 ## Grading (20 pts.)
 - Submit the PPT on Time
     - Submit on 12/5 AND bring it to class on a USB
