@@ -22,23 +22,23 @@ The first written assignment is a short essay. It will be an in class writing as
     * Example 7C1_070155_Keary.docx
 
 ---
-## Grading
-- Submit the Assignment on Time
-    - Due at the end of class
-- Spelling 
-    - Make sure to check the spelling of your words.
-- Grammar
-    - Make sure you use correct Grammar
-- Ideas & Organization
-    - Make sure the ideas and support the introduction
-    - The Introduction, Body and Conclusion
-- Punctuation
-    - Make sure to speak loud enough for me and your classmates to hear you
-- Appropriate Length
-    - The assignment should *300 - 400 words*!
-- **NO PAPAGO**
-    - Seriously. Don't do it. You will get a zero on the assignment.
-
+## Grading (20 pts.)
+- Submit the Paper on Time!
+    - Submit on 10/14
+    - Penalty for late submissions!
+- Grammar and Punctation **(2.5 pts.)**
+    - This is a formal paper, I will take off points for improper grammar and punctation.
+- Ideas & Organization **(10 pts.)**
+    - How well do your researched points support the ideas that you introduce? 
+    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
+- Linguistic Capability **(5 pts.)**
+    - Exceptional use of vocabulary
+    - Proper use of idiomatic expressions
+- Appropriate Length **(2.5 pts.)**
+    - This essay should meet the minimum length requirements (3 paragraphs; 300-400 words)
+- **No Papago (Or other translation software)** 
+    - If I find out you used Papago *you will get a zero* ;)
+    - Seriously. Don't do it. Just ask me for help instead! :)
 ---
 ## ***Remember to proofread your paper!***
 
