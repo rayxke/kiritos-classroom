@@ -21,9 +21,9 @@ description: >-
 |  11 |  10/31-11/4         |  Unit 8 Part C, Writing Process & MLA Format | Outline & Annotated Bibliography|
 | 12  |  11/7-11/11          | Unit 8 Part D & Research Writing |[Assignment 2](10C-english/assignment2/)|
 | 13 |  11/14-11/18         | Unit 9 Part A & Thesis Writing | Thesis & Outline |
-| 14 |  11/21-11/25         | Unit 9 Part B & Compare and Contrast | [Assignment 3]()|
+| 14 |  11/21-11/25         | Unit 9 Part B & Compare and Contrast | [Assignment 3](10C-english/assignment3)|
 | 15 |  11/28-12/2          | Unit 9 Part C & Presentation Techniques |             |
-| 16 |  12/5-12/9           | **Presentations** |[Assignment 4]()
+| 16 |  12/5-12/9           | **Presentations** |[Assignment 4](10C-english/assignment4)
 | 17 |  12/12-12/16         | Self-Study |             |
 | 18 |  12/19-12/23         | Final Exam |          |
 | 19 |  12/26-12/30         | Review |              |
