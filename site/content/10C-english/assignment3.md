@@ -16,7 +16,7 @@ Assignment 3 is a Literary Analysis. You will write a paper to analyze the text 
 ---
 ## Grading
 - Submit the Paper on Time
-    - Submit on 11/11
+    - Submit on 11/25
 - Cite at least **three** sources for your paper
 - The paper should be in MLA Format
 - No Papago 
