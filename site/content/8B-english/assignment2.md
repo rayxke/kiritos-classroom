@@ -3,9 +3,9 @@ title: Assignment 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 1
+    Submit Assignment 2
 link: 
-    https://inbox.weiyun.com/ogktNPqg
+    https://inbox.weiyun.com/mnsaL74o
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -40,7 +40,7 @@ image:
 	    * Does the presentation satisfy time requirements?
 	    * Is time used effectively in the presentation?
 ---
-## ***Remember to proofread your paper!***
+## ***Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
