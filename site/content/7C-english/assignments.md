@@ -14,7 +14,7 @@ intro:
       text: >
         Assignment 2
       link: 7C-english/assignment2/
-      disabled: disabled
+      disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
         Assignment 3
