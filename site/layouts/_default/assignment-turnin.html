@@ -24,6 +24,16 @@
           </button>
         </a> 
       </div> 
+      {{ if .Params.fenbie }}
+      <div class="ph2-ns w-50-ns mb4" style="position: center;">
+        
+        <a href="{{.Params.link2}}"> 
+          <button class="btn btn-default btn-lg" style="font-size: larger; width: 300px;"> 
+          {{.Params.fenbie}}
+          </button>
+        </a> 
+      </div> 
+      {{end}}
       <!---->
       {{ .Content }}
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}

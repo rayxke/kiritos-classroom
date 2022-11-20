@@ -3,28 +3,30 @@ title: Assignment 3
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 3
+    Submit Assignment 3 (10C1)
 link: 
-    https://inbox.weiyun.com/3kr0rtnq
+    https://inbox.weiyun.com/cGzP3M8j
 image: 
     /img/surprised-pikachu.jpeg
+fenbie: Submit Assignment 3 (10C2)
+link2: https://inbox.weiyun.com/e3Ppakoq
 ---
 ---
 ## Instructions
-Assignment 3 is a Literary Analysis. You will write a paper to analyze the text we have read and discussed in class. You should use the techniques we discussed in class to support your analysis namely a sufficient thesis, supporting arguments and quote blending.
+Assignment 3 is a Movie Review. You will write a paper to analyze a movie of your choice. You should use the techniques we discussed in class to support your analysis namely a sufficient thesis, supporting arguments and quote blending.
 
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 11/11
+    - Submit on 11/25
     - Penalty for late submissions!
 - Grammar and Punctation **(2.5 pts.)**
-    - This is a formal paper, I will take off points for improper grammar and punctation.
+    - I will take off points for improper grammar and punctation.
 - Ideas & Organization **(10 pts.)**
-    - How well do your researched points support the ideas that you introduce? 
+    - How well do your points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-    - Cite at least **three** sources for your paper
-    - The paper should be in MLA Format 
+    - No need for MLA Format (You can celebrate...)
+    - Please make sure your paper is double spaced, size 12 Times New Roman font
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
     - Proper use of idiomatic expressions
@@ -41,5 +43,5 @@ Assignment 3 is a Literary Analysis. You will write a paper to analyze the text 
 
 Me: But Keary I turned in my paper why is my grade so low?
 
-Keary: Did you turn it in on time? Did you have a well supported thesis? How well did you use quote blending? Did you check the MLA formatting of your paper?
+Keary: Did you turn it in on time? Did you have a well supported thesis? How well did you use quote blending or sufficient examples from the movie?
 
