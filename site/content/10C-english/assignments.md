@@ -24,5 +24,5 @@ intro:
       text: >
         Assignment 4
       link: 10C-english/assignment4/
-      disabled: disabled
+      disabled:
 ---

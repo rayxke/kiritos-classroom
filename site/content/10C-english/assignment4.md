@@ -2,7 +2,7 @@
 title: Assignment 4
 layout: assignment-turnin
 description: >-
-    Prepare a 3-5 minute Powerpoint presentation about your Literary Analysis.
+    Prepare a 3-5 minute Powerpoint presentation about your Movie Review.
 
     The PPT should be no more than 10 slides.
 
@@ -10,11 +10,13 @@ description: >-
 
     It should contain visual aids and short prompts to remind you of what to talk about.
 text: >
-    Submit Assignment 4
+    Submit Assignment 4 (10C1)
 link: 
     https://inbox.weiyun.com/5GTOh8ap
 image: 
     /img/surprised-pikachu.jpeg
+fenbie: Submit Assignment 4 (10C2)
+link2: https://inbox.weiyun.com/1IvajMOr
 ---
 ---
 ## Grading (20 pts.)
@@ -24,9 +26,9 @@ image:
     - Follow the guidelines we have discussed in class
     - Appropriate visual aid in powerpoint
 - Ideas & Organization **(5 pts.)**
-    - Cite at least **three** sources for your presentation (This can include the story that we discussed)
-    - Do the sources cited provide relevant information?
     - Does the presentation follow a logical order?
+    - Is your review supported by examples from the movie
+    - How well do you lead the audience to your conclusion?
 - Pronunciation **(5 pts.)**
     - If it effects my understanding I will lower your grade.
     - Look up the words you will use before presenting! 
@@ -38,6 +40,7 @@ image:
     - Time
         - Does the presentation satisfy time requirements?
         - Is time used effectively in the presentation? 
+        - If you think your presentation needs more than 5 minutes ask me first! Otherwise overtime also lowers your grade.
 
 ***Remember to rehearse your presentation!***
 
@@ -46,4 +49,3 @@ image:
 Me: But Keary I presented why is my grade so low?
 
 Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts.
-
