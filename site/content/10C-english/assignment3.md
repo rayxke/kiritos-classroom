@@ -20,6 +20,7 @@ Assignment 3 is a Movie Review. You will write a paper to analyze a movie of you
 - Submit the Paper on Time!
     - Submit on 11/25
     - Penalty for late submissions!
+    - Name the document "10CX_Name_StudentNumber.docx" 
 - Grammar and Punctation **(2.5 pts.)**
     - I will take off points for improper grammar and punctation.
 - Ideas & Organization **(10 pts.)**
