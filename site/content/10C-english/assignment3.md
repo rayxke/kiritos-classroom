@@ -47,5 +47,5 @@ Assignment 3 is a Movie Review. You will write a paper to analyze a movie of you
 
 Me: But Keary I turned in my paper why is my grade so low?
 
-Keary: Did you turn it in on time? Did you have a well supported thesis? How well did you use quote blending or sufficient examples from the movie?
+Keary: Did you turn it in on time? Did you have a well supported analysis? How well did you use quote blending or sufficient examples from the movie?
 
