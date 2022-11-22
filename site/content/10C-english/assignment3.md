@@ -4,10 +4,13 @@ layout: assignment-turnin
 description: >-
 text: >
     Submit Assignment 3 (10C1)
+text2: Download Template
 link: 
     https://inbox.weiyun.com/cGzP3M8j
 image: 
     /img/surprised-pikachu.jpeg
+download:
+    /docs/Movie_Review_Template.docx
 fenbie: Submit Assignment 3 (10C2)
 link2: https://inbox.weiyun.com/e3Ppakoq
 ---
