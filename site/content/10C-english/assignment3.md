@@ -18,7 +18,7 @@ Assignment 3 is a Movie Review. You will write a paper to analyze a movie of you
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 11/25
+    - Submit on 11/27
     - Penalty for late submissions!
     - Name the document "10CX_Name_StudentNumber.docx" 
 - Grammar and Punctation **(2.5 pts.)**
@@ -32,7 +32,7 @@ Assignment 3 is a Movie Review. You will write a paper to analyze a movie of you
     - Exceptional use of vocabulary
     - Proper use of idiomatic expressions
 - Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (5 paragraphs; 700-800 words)
+    - This essay should meet the minimum length requirements (5 paragraphs; 500 words or more)
 - **No Papago (Or other translation software)** 
     - If I find out you used Papago *you will get a zero* ;)
     - Seriously. Don't do it. Just ask me for help instead! :)
