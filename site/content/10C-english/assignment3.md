@@ -13,7 +13,7 @@ link2: https://inbox.weiyun.com/e3Ppakoq
 ---
 ---
 ## Instructions
-Assignment 3 is a Movie Review. You will write a paper to analyze a movie of your choice. You should use the techniques we discussed in class to support your analysis namely a sufficient thesis, supporting arguments and quote blending.
+Assignment 3 is a Movie Review. You will write a paper to analyze a movie of your choice. You should use the techniques we discussed in class to support your analysis namely supporting arguments and quote blending.
 
 ---
 ## Grading (20 pts.)
