@@ -13,12 +13,14 @@ link2: https://inbox.weiyun.com/1JMTVCTU
 ---
 ---
 ## Instructions
-* Prepare a presentation about one of the topics you have written about in your journal
+* Prepare a presentation about the sport that has been assigned to you
 * Should be *3-5 minutes*.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
-
+* Introduce how to play the sport
+* Introduce at least one athlete in the sport
+* Introduce one major competiton in the sport (For example Soccer has the World Cup)
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
