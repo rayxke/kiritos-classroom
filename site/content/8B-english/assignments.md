@@ -19,7 +19,7 @@ intro:
       text: >
         Assignment 3
       link: 8B-english/assignment3/
-      disabled: disabled
+      disabled:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 4
