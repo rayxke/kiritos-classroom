@@ -11,7 +11,7 @@ image:
 ---
 ---
 ## Instructions
-1. This assignment consists of *two deliverables*. One group **video** and one **paper***.
+1. This assignment consists of *two deliverables*. One group **video** and one **paper**.
 2. In a group of four students. Create an informative newsbroadcast about a topic of your choice. You should play the role of anchorperson, scientist, expert, interviewer, interviewee. Whoever is the anchor provides closing argument after the main content. Please include all group member names in the video.
 3. Each individual in the group should write a paper about the topic covered in the group video. The paper will be graded individually.
 ---
