@@ -12,7 +12,7 @@ description: >-
 text: >
     Submit Assignment 4 (10C1)
 link: 
-    https://inbox.weiyun.com/5GTOh8ap
+    https://inbox.weiyun.com/jGgnjfnT
 image: 
     /img/surprised-pikachu.jpeg
 fenbie: Submit Assignment 4 (10C2)
