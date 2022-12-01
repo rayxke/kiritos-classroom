@@ -15,6 +15,7 @@ download:
 ---
 ---
 ## Instructions
+- Due 2022/12/12
 - This assignment consists of *two deliverables*. 
     - One **group video** 
     - One **individual paper**.
