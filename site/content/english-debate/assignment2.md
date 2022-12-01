@@ -29,7 +29,7 @@ image:
     - Sufficient Length
     - Errors
     - Proper Coverage of the Topic
-    -Creativity
+    - Creativity
 
 
 ## ***Remember to proofread your paper!***
