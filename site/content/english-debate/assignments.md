@@ -71,6 +71,6 @@ intro:
         Assignment 2
       subject: > 
         (Final Project)
-      disabled: "disabled"
+      disabled:
       link: english-debate/assignment2
 ---
