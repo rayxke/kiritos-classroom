@@ -8,26 +8,24 @@ description: >-
 
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
-|  1 |  8/26                | Intro |          |
-|  2 |  8/29-9/2            | Intro |          |
-|  3 |  9/5-9/9             | Unit 5 Part A |          |
-|  4 |  9/12-9/16           | Unit 5 Part B |          |
-|  5 |  9/19-9/23           | Unit 5 Part C |          |
-|  6 |  9/26-9/30           | Unit 5 Part D |          |
-|  7 |  10/3-10/7           | **NO CLASS** |        |
-|  8 |  10/10-10/14         | Essay Writing |[Assignment 1](8B-english/assignment1/)|
-|  9 |  10/17-10/21         | Self-Study |          |
-|  10 |  10/24-10/28         | Midterm Exams |      |
-|  11 |  10/31-11/4         |  Unit 6 Part A, Oral Presentation Review | |
-| 12  |  11/7-11/11          | **Presentations** |[Assignment 2](8B-english/assignment2/)|
-| 13 |  11/14-11/18         | Unit 6 Part B, Thesis Statements | |
-| 14 |  11/21-11/25         | Unit 6 Part C  | [Assignment 3](8B-english/assignment3)|
-| 15 |  11/28-12/2          | Unit 6 Part D  |             |
-| 16 |  12/5-12/9           | **Presentations** |[Assignment 4](8B-english/assignment4)
-| 17 |  12/12-12/16         | Self-Study |             |
-| 18 |  12/19-12/23         | Final Exam |          |
-| 19 |  12/26-12/30         | Review |              |
-| 20 |  1/2-1/6             | Review |              |
-| 21 |  1/9-1/12            | Review |              |
+|  1 |  3/1-3/3             | Intro and Unit 1 |          |
+|  2 |  3/6-3/10            | Intro and Unit 1 |          |
+|  3 |  3/13-3/17           | Unit 1  |          |
+|  4 |  3/20-3/24           | Unit 1  |          |
+|  5 |  3/27-3/31           | Unit 2  | [Assignment 1](8B-english/assignment1/)         |
+|  6 |  4/3-4/7             | Unit 2  |          |
+|  7 |  4/10-4/14           | Unit 2  |[Assignment 2](8B-english/assignment2/)              |
+|  8 |  4/17-4/21           | Self-Study |       |
+|  9 |  4/24-4/28           | Midterm Exams |          |
+| 10 |  5/1-5/5             | Unit 2  |       |
+| 11 |  5/8-5/12            | Unit 3  | |
+| 12 |  5/15-5/19           | Unit 3  | [Assignment 3](8B-english/assignment3)      |
+| 13 |  5/22-5/26           | Unit 3  | |
+| 14 |  5/29-6/2            | Unit 3  | [Assignment 4](8B-english/assignment4)|
+| 15 |  6/5-6/9             | Review  |             |
+| 16 |  6/12-6/16           |Self-Study|
+| 17 |  6/19-6/23           | Final Exams |             |
+| 18 |  6/26-6/30           | Final Exams|          |
+| 19 |  7/3-7/7             | Review |Summer Break Begins. Go home!              |
 
 ---
