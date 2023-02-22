@@ -5,11 +5,11 @@ description: >-
 text: >
     Submit Assignment 3 (7C1)
 link: 
-    https://inbox.weiyun.com/5QfEy6rk
+    https://inbox.weiyun.com/XiaoKmui
 image: 
     /img/surprised-pikachu.jpeg
 fenbie: Submit Assignment 3 (7C2)
-link2: https://inbox.weiyun.com/1JMTVCTU
+link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ---
 ## Instructions
@@ -24,7 +24,7 @@ link2: https://inbox.weiyun.com/1JMTVCTU
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 12/4 AND bring it to class on a USB
+	* Submit on 5/15 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?

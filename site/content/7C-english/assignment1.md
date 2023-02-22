@@ -3,28 +3,33 @@ title: Assignment 1
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 1
+    Submit Assignment 1 (7C1)
 text2:
     Download Template
 link: 
-    https://inbox.weiyun.com/ogktNPqg
+    https://inbox.weiyun.com/ZBfEB0NN
 download:
     /docs/MiddleSchoolEssayTemplate.docx
+fenbie: Submit Assignment 1 (7C2)
+link2: https://inbox.weiyun.com/whNyhaGC
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-The first written assignment is a short essay. It will be an in class writing assignment, however you *are* allowed to prepare ahead of time. 
-1. Choose any of the topics that we have written about this semester and turn it into an essay.
+The first written assignment is a short essay. 
+1. Choose a city and describe it 
+    * Why people like to live in this city
+    * How many people live there?
+    * What are some historical elements of the city?
 2. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
 3. When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
-    * Example 7C1_070155_Keary.docx
+    * Example 7C1_70155_Keary.docx
 
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 10/14
+    - Submit on 3/27
     - Penalty for late submissions!
 - Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.

@@ -3,11 +3,13 @@ title: Assignment 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 2
+    Submit Assignment 2 (7C1)
 link: 
-    https://inbox.weiyun.com/AlyPQKHk
+    https://inbox.weiyun.com/sijQpA1Q
 image: 
     /img/surprised-pikachu.jpeg
+fenbie: Submit Assignment 2 (7C2)
+link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ---
 ## Instructions
@@ -20,7 +22,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 11/8 AND bring it to class on a USB
+	* Submit on 4/10 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?
