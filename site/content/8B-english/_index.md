@@ -15,4 +15,12 @@ intro:
       text: >
         Assignments
       link: /8B-english/assignments
+    - image: /img/calendar.svg
+      text: >
+        Schedule
+      link: 8B-english/schedule
+    - image: /img/books.svg
+      text: >
+        Resources
+      link: 8B-english/powerpoints
 ---

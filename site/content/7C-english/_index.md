@@ -15,4 +15,12 @@ intro:
       text: >
         Assignments
       link: /7C-english/assignments
+    - image: /img/calendar.svg
+      text: >
+        Schedule
+      link: 7C-english/schedule
+    - image: /img/books.svg
+      text: >
+        Resources
+      link: 7C-english/powerpoints
 ---
