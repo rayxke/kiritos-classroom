@@ -15,15 +15,15 @@ description: >-
 |  5 |  9/19-9/23           | Unit 5 Part C |          |
 |  6 |  9/26-9/30           | Unit 5 Part D |          |
 |  7 |  10/3-10/7           | **NO CLASS** |        |
-|  8 |  10/10-10/14         | Essay Writing |[Assignment 1](7C-english/assignment1/)|
+|  8 |  10/10-10/14         | Essay Writing |[Assignment 1](../7C-english/assignment1/)|
 |  9 |  10/17-10/21         | Self-Study |          |
 |  10 |  10/24-10/28         | Midterm Exams |      |
 |  11 |  10/31-11/4         |  Unit 6 Part A, Oral Presentation Review | |
-| 12  |  11/7-11/11          | **Presentations** |[Assignment 2](7C-english/assignment2/)|
+| 12  |  11/7-11/11          | **Presentations** |[Assignment 2](../7C-english/assignment2/)|
 | 13 |  11/14-11/18         | Unit 6 Part B, Thesis Statements | |
-| 14 |  11/21-11/25         | Unit 6 Part C  | [Assignment 3](7C-english/assignment3)|
+| 14 |  11/21-11/25         | Unit 6 Part C  | [Assignment 3](../7C-english/assignment3)|
 | 15 |  11/28-12/2          | Unit 6 Part D  |             |
-| 16 |  12/5-12/9           | **Presentations** |[Assignment 4](7C-english/assignment4)
+| 16 |  12/5-12/9           | **Presentations** |[Assignment 4](../7C-english/assignment4)
 | 17 |  12/12-12/16         | Self-Study |             |
 | 18 |  12/19-12/23         | Final Exam |          |
 | 19 |  12/26-12/30         | Review |              |

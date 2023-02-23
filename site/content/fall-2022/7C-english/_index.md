@@ -10,9 +10,9 @@ intro:
     - image: /img/syllabus.svg
       text: >
         Syllabus
-      link: /7C-english/syllabus
+      link: ../7C-english/syllabus
     - image: /img/pencil.svg
       text: >
         Assignments
-      link: /7C-english/assignments
+      link: ../7C-english/assignments
 ---
