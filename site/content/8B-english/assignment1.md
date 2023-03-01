@@ -8,44 +8,44 @@ text2:
     Download Template
 link: 
     https://inbox.weiyun.com/SwjJgkXH
-download:
-    /docs/MiddleSchoolEssayTemplate.docx
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-The first written assignment is a short essay. It will be an in class writing assignment, however you *are* allowed to prepare ahead of time. 
-1. Choose any of the topics that we have written about this semester and turn it into an essay.
-2. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
-3. When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
-    * Example 7C1_070155_Keary.docx
+* Prepare a presentation about tips for helping the environment. Review the ideas in Parts 1 and 2 and the listening and speaking skills as you prepare your presentation.
+* The Powerpoint should be NO MORE than 10 slides.
+* Powerpoint should NOT contain full sentences.
+* It should contain visual aids and short prompts to remind you of what to talk about.
 
 ---
 ## Grading (20 pts.)
-- Submit the Paper on Time!
-    - Submit on 10/14
-    - Penalty for late submissions!
-- Grammar and Punctation **(2.5 pts.)**
-    - This is a formal paper, I will take off points for improper grammar and punctation.
-- Ideas & Organization **(10 pts.)**
-    - How well do your researched points support the ideas that you introduce? 
-    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-- Linguistic Capability **(5 pts.)**
-    - Exceptional use of vocabulary
-    - Proper use of idiomatic expressions
-- Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (3 paragraphs; 300-400 words)
-- **No Papago (Or other translation software)** 
-    - If I find out you used Papago *you will get a zero* ;)
-    - Seriously. Don't do it. Just ask me for help instead! :)
-
+* Submit the PPT on Time
+	* Submit on 3/24 AND **bring it to class on a USB**
+    * LATE Submission has a Penalty (-1 Point for each day late)
+* Powerpoint (5 pts.)
+	* Did you follow the guidelines we discussed in class?
+	* Appropriate visual aid in powerpoint
+* Ideas & Organization (5 pts.)
+    * Does the presentation follow a logical order?
+    * Is it Interesting?
+	* Did you make an outline for your PPT
+* Pronunciation (5 pts.)
+	* If it effects my understanding I will lower your grade.
+	* Look up the words you will use before presenting!
+* Delivery (5 pts.)
+	* Eye Contact
+	    * Do not read from a script
+    * Volume
+	    * Make sure to speak loud enough for me and your classmates to hear you
+	* Time
+	    * Does the presentation satisfy time requirements?
+	    * Is time used effectively in the presentation?
 ---
-## ***Remember to proofread your paper!***
+## ***Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Keary I turned in my assignment why is my grade so low?
 
-Keary: Did you have good grammar and spelling? Did your essay include an introduction, body and conclusion?
-
+Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts?

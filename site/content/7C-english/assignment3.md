@@ -13,19 +13,18 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ---
 ## Instructions
-* Prepare a presentation about the sport that has been assigned to you
+* Prepare a presentation about how we can affect the environment in a positive way.
 * Should be *3-5 minutes*.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
-* Introduce how to play the sport
-* Introduce at least one athlete in the sport
-* Introduce one major competiton in the sport (For example Soccer has the World Cup)
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
 	* Submit on 5/15 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
+	* When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
+		* Example "7C1_70155_Keary.pptx"
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?
 	* Appropriate visual aid in powerpoint

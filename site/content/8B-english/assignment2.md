@@ -10,41 +10,38 @@ image:
     /img/surprised-pikachu.jpeg
 ---
 ---
+
 ## Instructions
-* Prepare a presentation about one of the topics you have written about in your journal
-* Should be 3-5 minutes.
-* The Powerpoint should be NO MORE than 10 slides.
-* Powerpoint should NOT contain full sentences.
-* It should contain visual aids and short prompts to remind you of what to talk about.
+The first written assignment is a short essay.
+1. Write about a time when you felt a special connection to nature.
+2. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
+3. When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
+    * Example 8B1_80155_Keary.docx
 
 ---
 ## Grading (20 pts.)
-* Submit the PPT on Time
-	* Submit on 11/8 AND bring it to class on a USB
-    * LATE Submission has a Penalty (-1 Point for each day late)
-* Powerpoint (5 pts.)
-	* Did you follow the guidelines we discussed in class?
-	* Appropriate visual aid in powerpoint
-* Ideas & Organization (5 pts.)
-    * Does the presentation follow a logical order?
-    * Is it Interesting?
-* Pronunciation (5 pts.)
-	* If it effects my understanding I will lower your grade.
-	* Look up the words you will use before presenting!
-* Delivery (5 pts.)
-	* Eye Contact
-	    * Do not read from a script
-    * Volume
-	    * Make sure to speak loud enough for me and your classmates to hear you
-	* Time
-	    * Does the presentation satisfy time requirements?
-	    * Is time used effectively in the presentation?
+- Submit the Paper on Time!
+    - Submit on 4/14
+    - Penalty for late submissions!
+- Grammar and Punctation **(2.5 pts.)**
+    - This is a formal paper, I will take off points for improper grammar and punctation.
+- Ideas & Organization **(10 pts.)**
+    - How well do your researched points support the ideas that you introduce? 
+    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
+- Linguistic Capability **(5 pts.)**
+    - Exceptional use of vocabulary
+    - Proper use of idiomatic expressions
+- Appropriate Length **(2.5 pts.)**
+    - This essay should meet the minimum length requirements (3 paragraphs; 300-400 words)
+- **No Papago (Or other translation software)** 
+    - If I find out you used Papago *you will get a zero* ;)
+    - Seriously. Don't do it. Just ask me for help instead! :)
+
 ---
-## ***Remember to rehearse your presentation!***
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Keary I turned in my assignment why is my grade so low?
 
-Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts?
-
+Keary: Did you have good grammar and spelling? Did your essay include an introduction, body and conclusion?

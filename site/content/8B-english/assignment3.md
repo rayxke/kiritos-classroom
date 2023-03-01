@@ -13,23 +13,38 @@ link2: https://inbox.weiyun.com/6mc2PBpQ
 ---
 ---
 ## Instructions
-* Prepare a presentation answering ONE of the questions from page 106 in your textbook.
+* Prepare a presentation introducing three ecofriendly methods of transportation.
 * The presentation should be 3-5 minutes.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
 ---
-## Questions
-Choose ONE of the following questions:
-1. Are you involved in any clubs organizations, or activities?
-2. Do your friends and family encourage you to do your best? How?
-3. Have you had any good news lately? What was your family's reaction when you told them?
-4. Describe a fascinating book you have read or a fascinating television program you have 	watched recently.
-5. What was the last movie you saw? How would you rate it (excellent, good, OK, etc.)? Explain why you would rate it this way.
+## Methods
+Choose THREE of the following questions:
+- abra
+- car or bike sharing
+- city cars, e.g., Smart car ELF vehicle
+- ferry
+- flying bike
+- golf cart
+- hoverboard
+- jet pack 
+- Maglev train 
+- SCaRaB 
+- scooter 
+- Segway 
+- self-driving car
+- Shweeb system 
+- Skytrain
+- sled
+- unicycle 
+- Velomobile 
+- zipline
+- other: (Your choice)
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 12/4 AND bring it to class on a USB
+	* Submit on 5/14 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?
