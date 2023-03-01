@@ -1,6 +1,5 @@
 ---
 title: Previous Semesters
-type: Archive
 image: /img/detective-pikachu-dance.gif
 heading: Previous Semesters
 description: >-
@@ -10,5 +9,5 @@ intro:
     - image:
       text: >
         Fall 2022
-      link: fall-2022  
+      link: sks/fall2022  
 ---
