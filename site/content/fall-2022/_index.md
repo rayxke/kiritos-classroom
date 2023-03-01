@@ -10,17 +10,17 @@ intro:
     - image:
       text: >
         7C English
-      link: ../7C-english
+      link: fall-2022/7C-english
     - image:
       text: >
         8B English
-      link: ../8B-english
+      link: fall-2022/8B-english
     - image:
       text: >
         10C English
-      link: ../10C-english
+      link: fall-2022/10C-english
     - image:
       text: >
         English Debate
-      link: ../english-debate   
+      link: fall-2022/english-debate   
 ---
