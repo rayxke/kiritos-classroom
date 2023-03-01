@@ -2,33 +2,30 @@
 title: English Debate Schedule
 layout: schedule
 description: >-
- 
 ---
 
 ---
 
-| Week |          Date          |                 Content                  |             Homework                   
-|:----------------------:|:-------------------------------------------------:|:---------------------------------------------------------:|:----------:|
-|  1 |  8/26                | Intro ||
-|  2 |  8/29-9/2            | Alcohol Prohibition |HW1|
-|  3 |  9/5-9/9             | Alcohol Prohibition ||
-|  4 |  9/12-9/16           | Drugs in Sports |HW2|
-|  5 |  9/19-9/23           | Drugs in Sports ||
-|  6 |  9/26-9/30           | Gender | HW3|
-|  7 |  10/3-10/7           | **NO CLASS** ||
-|  8 |  10/10-10/14         | Gender |[Proposal](english-debate/proposal)|
-|  9 |  10/17-10/21         | Topic 4||
-|  10 |  10/24-10/28         | **Midterm Exams** |[Assignment 1](english-debate/assignment1)|
-|  11 |  10/31-11/4         | Topic 4||
-| 12  |  11/7-11/11          | Topic 5 ||
-| 13 |  11/14-11/18         | Topic 5 |
-| 14 |  11/21-11/25         | Topic 6 ||
-| 15 |  11/28-12/2          | Topic 6 |
-| 16 |  12/5-12/9           | Topic 7 ||
-| 17 |  12/12-12/16         | Topic 7 & Review |
-| 18 |  12/19-12/23         | **Final Exam** |[Assignment 2](english-debate/assignment2)|
-| 19 |  12/26-12/30         | Review |
-| 20 |  1/2-1/6             | Review |
-| 21 |  1/9-1/12            | Review |
+| Week  |          Dates          |                 Content                  |             Homework      |             
+|:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
+|  1 |  03/01-03/03             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
+|  2 |  3/6-3/10            | Intro |  [Homework 2 Due](https://forms.microsoft.com/r/jpC8nm4Qah)        |
+|  3 |  3/13-3/17           | Defining Argument and Debate  |   [Homework 3 Due](https://forms.microsoft.com/r/4McD5tsE5v)       |
+|  4 |  3/20-3/24           | Ethos, Logos, Pathos, Mythos  |  [Homework 4 Due](https://forms.microsoft.com/r/Vjq6p7rMtc)        |
+|  5 |  3/27-3/31           | Inductive vs. Deductive Logic  |  [Homework 5 Due](https://forms.microsoft.com/r/3GtLwySxBm)       |
+|  6 |  4/3-4/7             | Informal Fallacies I  |   [Homework 6 Due](https://forms.microsoft.com/r/cHwi62ckMR)       |
+|  7 |  4/10-4/14           | Review  |[Assignment 1 Due](english-debate/assignment1/)              |
+|  8 |  4/17-4/21           | Self-Study |       |
+|  9 |  4/24-4/28           | Midterm Exams |          |
+| 10 |  5/1-5/5             | Informal Fallacies II  |  [Homework 7 Due](https://forms.microsoft.com/r/wtaKC9Z5Y0)    |
+| 11 |  5/8-5/12            | Debatable Matters: AI  | [Homework 8 Due](https://forms.microsoft.com/r/d527ZK1up5)|
+| 12 |  5/15-5/19           | Debatable Matters: God  |   [Homework 9 Due](https://forms.microsoft.com/r/KFmr6B7cFb)
+| 13 |  5/22-5/26           | In-Class Debate  | [Assignment 2 Due](english-debate/assignment2/)|
+| 14 |  5/29-6/2            | Review  |[Homework 10 Due](https://forms.microsoft.com/r/GNLG3u6JKL)    |
+| 15 |  6/5-6/9             | Review  |          |
+| 16 |  6/12-6/16           |Self-Study|
+| 17 |  6/19-6/23           | Final Exams |             |
+| 18 |  6/26-6/30           | Final Exams|          |
+| 19 |  7/3-7/7             | Review |Summer Break Begins. Go home!              |
 
 ---

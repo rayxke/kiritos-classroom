@@ -15,22 +15,15 @@ download:
 ---
 ---
 ## Instructions
-- Due 2022/12/12
-- This assignment consists of *two deliverables*. 
-    - One **group video** 
-    - One **individual paper**.
-### Video
-- In a group of four students, create a 10-minute informative newsbroadcast about a topic of your choice. 
-- The newsbroadcast should include the roles of anchorperson, scientist, expert, interviewer, interviewee. 
-- The anchor should provide closing argument after the main content. 
-- Please include all group member names in the video.
+- Due 2023/05/26
+- This assigment has **two parts**. An Oral and Written Part. You will only submit the written portion here as the oral portion will be presented in class!
+### Lincoln Douglass Debate
+- Add specifics later
 ### Paper
-- Each individual in the group should write a paper (500 words or more) about the topic covered in the group video.
-- The paper should take a clear position about the topic.
-- Follow proper conventions for writing a paper.
+- Please submit a final draft of the argumentative position paper. It should be 800-1000 words. It should follow a standard structure and include one of the appeals discussed in class (Pathos, Logos, Ethos)
 ---
 ## Rubric (40 pts.)
-### Video (20 pts.)
+### Lincoln Douglass Debate (20 pts.)
 - Argumentation (5 pts.)
     - Arguments are coherent and lacking in fallacies
     - Evidence ties to position well
@@ -69,5 +62,5 @@ download:
 
 Me: But Keary I submitted why is my grade so low?
 
-Keary: Did you submit an *individual* paper along with your group video? Were all deliverables submitted on time? Was the paper well researched with sufficient sources? Did the group video resemble an informative broadcast with proper editing and group particpation?
+Keary: Did you submit the final draft of your paper? Were all deliverables submitted on time? Was the paper well researched with sufficient sources? Did you have a meaningful part in the Lincoln Douglass Debate?
 
