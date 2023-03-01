@@ -31,13 +31,13 @@ intro:
         Proposal
       subject: >
         (For Assignment 1)
-      link: english-debate/proposal
+      link: fall-2022/english-debate/proposal
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 1
       subject: > 
         (Video Rebuttal)
-      link: english-debate/assignment1
+      link: fall-2022/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
        Homework 4 
@@ -72,5 +72,5 @@ intro:
       subject: > 
         (Final Project)
       disabled:
-      link: english-debate/assignment2
+      link: fall-2022/english-debate/assignment2
 ---

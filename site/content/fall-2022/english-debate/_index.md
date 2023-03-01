@@ -10,17 +10,17 @@ intro:
     - image: /img/syllabus.svg
       text: >
         Syllabus
-      link: english-debate/syllabus
+      link: fall-2022/english-debate/syllabus
     - image: /img/pencil.svg
       text: >
         Assignments
-      link: english-debate/assignments
+      link: fall-2022/english-debate/assignments
     - image: /img/calendar.svg
       text: >
         Schedule
-      link: english-debate/schedule
+      link: fall-2022/english-debate/schedule
     - image: /img/books.svg
       text: >
         Resources
-      link: english-debate/powerpoints
+      link: fall-2022/english-debate/powerpoints
 ---
