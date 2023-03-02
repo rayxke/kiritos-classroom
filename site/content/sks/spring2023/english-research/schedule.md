@@ -5,10 +5,10 @@ description: >-
 ---
 
 ---
-
+{{<table "mw8 center dt--fixed">}}
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
-|  1 |  03/01-03/03             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
+|  1 |  3/1-3/3             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
 |  2 |  3/6-3/10            | Intro |  [Homework 2 Due](https://forms.microsoft.com/r/jpC8nm4Qah)        |
 |  3 |  3/13-3/17           | Defining Argument and Debate  |   [Homework 3 Due](https://forms.microsoft.com/r/4McD5tsE5v)       |
 |  4 |  3/20-3/24           | Ethos, Logos, Pathos, Mythos  |  [Homework 4 Due](https://forms.microsoft.com/r/Vjq6p7rMtc)        |
@@ -27,4 +27,6 @@ description: >-
 | 17 |  6/19-6/23           | Final Exams |             |
 | 18 |  6/26-6/30           | Final Exams|          |
 | 19 |  7/3-7/7             | Review |Summer Break Begins. Go home!              |
+{{</table>}}
+
 ---

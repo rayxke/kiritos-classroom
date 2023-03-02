@@ -5,7 +5,7 @@ description: >-
 ---
 
 ---
-
+{{<table "mw8 center dt--fixed">}}
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
 |  1 |  03/01-03/03             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
@@ -27,5 +27,6 @@ description: >-
 | 17 |  6/19-6/23           | Final Exams |             |
 | 18 |  6/26-6/30           | Final Exams|          |
 | 19 |  7/3-7/7             | Review |Summer Break Begins. Go home!              |
+{{</table>}}
 
 ---

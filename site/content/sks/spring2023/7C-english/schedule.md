@@ -5,7 +5,7 @@ description: >-
 ---
 
 ---
-
+{{<table "mw8 center dt--fixed">}}
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
 |  1 |  3/1-3/3             | Intro and Unit 1 |          |
@@ -27,5 +27,6 @@ description: >-
 | 17 |  6/19-6/23           | Final Exams |             |
 | 18 |  6/26-6/30           | Final Exams|          |
 | 19 |  7/3-7/7             | Review |Summer Break Begins. Go home!              |
+{{</table>}}
 
 ---
