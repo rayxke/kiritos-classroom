@@ -8,21 +8,21 @@ intro:
     - image: /img/illustrations-coffee.svg
       text: >
         Assignment 1
-      link: spring2023/7C-english/assignment1/
+      link: sks/spring2023/7C-english/assignment1/
       disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Assignment 2
-      link: spring2023/7C-english/assignment2/
+      link: sks/spring2023/7C-english/assignment2/
       disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
         Assignment 3
-      link: spring2023/7C-english/assignment3/
+      link: sks/spring2023/7C-english/assignment3/
       disabled:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 4
-      link: spring2023/7C-english/assignment4/
+      link: sks/spring2023/7C-english/assignment4/
       disabled: disabled
 ---

@@ -10,12 +10,12 @@ intro:
         Assignment 1
       subject: > 
         Final Paper
-      link: english-research/assignment1
+      link: sks/spring2023/english-research/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 2
       subject: > 
         (Research Portfolio)
       disabled:
-      link: english-debate/assignment2
+      link: sks/spring2023/english-debate/assignment2
 ---

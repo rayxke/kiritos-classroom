@@ -10,12 +10,12 @@ intro:
         Assignment 1
       subject: > 
         (Rough Draft)
-      link: english-debate/assignment1
+      link: sks/spring2023/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
         Assignment 2
       subject: > 
         (Final Project)
       disabled:
-      link: english-debate/assignment2
+      link: sks/spring2023/english-debate/assignment2
 ---
