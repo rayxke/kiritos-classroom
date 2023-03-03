@@ -7,15 +7,11 @@ intro:
   blurbs:
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 1
-      subject: > 
         Final Paper
       link: sks/spring2023/english-research/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 2
-      subject: > 
-        (Research Portfolio)
+        Research Portfolio
       disabled:
       link: sks/spring2023/english-debate/assignment2
 ---
