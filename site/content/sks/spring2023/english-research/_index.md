@@ -22,5 +22,5 @@ intro:
     - image: /img/books.svg
       text: >
         Resources
-      link: sks/spring2023/english-research/powerpoints
+      link: sks/spring2023/english-research/resources
 ---
