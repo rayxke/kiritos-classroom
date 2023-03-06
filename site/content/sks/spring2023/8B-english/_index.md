@@ -22,5 +22,5 @@ intro:
     - image: /img/books.svg
       text: >
         Resources
-      link: sks/spring2023/8B-english/powerpoints
+      link: sks/spring2023/8B-english/resources
 ---
