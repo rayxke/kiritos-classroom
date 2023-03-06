@@ -11,7 +11,7 @@ description: >-
 [Discovering the World Through Debate (3rd Edition)](https://www.amazon.com/Discovering-World-Through-Debate-Educational/dp/1932716068)
 
 ## Lecture PPTs
-[Defining Argument and Debate]()
+[Defining Argument and Debate](https://1drv.ms/b/s!Aj6UQEHKckJYb06_rmAEClTcurA?e=6HaCxc)
 
 [Ethos, Logos, Pathos, Mythos]()
 
