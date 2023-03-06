@@ -20,4 +20,3 @@ Choices in research areas for 2023 Spring:
 - Modern / Ancient history
 - Engineering/Technology
 - Psychology
-- Business and economics
