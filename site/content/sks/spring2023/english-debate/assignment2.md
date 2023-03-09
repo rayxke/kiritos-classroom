@@ -15,8 +15,13 @@ download:
 ---
 ---
 ## Instructions
-- Due 2023/05/26
-- This assigment has **two parts**. An Oral and Written Part. You will only submit the written portion here as the oral portion will be presented in class!
+- Due 2023/05/08
+- This assigment has **two parts**. An Oral and Written Part. Submit your PPT and Final Paper.
+- The paper should be named "StudentNumber_Name.docx"
+- Example 120155_Keary.docx
+- PPT should be named Team_Name.pptx
+- Please include names and student numbers in the PPT
+- Example Pikachu.pptx
 ### Lincoln Douglass Debate
 - Add specifics later
 ### Paper
@@ -24,20 +29,16 @@ download:
 ---
 ## Rubric (40 pts.)
 ### Lincoln Douglass Debate (20 pts.)
-- Argumentation (5 pts.)
+- Argumentation (10 pts.)
     - Arguments are coherent and lacking in fallacies
     - Evidence ties to position well
+    - Well thought out rebuttal and consideration of oppositions arguments
 - Quality of Research (5 pts.)
     - Background info is well researched from reliable sources
     - Naver, Wiki, Search Engines (Google, Bing, etc.) are NOT reliable sources
-- Technical Skills (5 pts.)
-    - Expert implementation of the following:
-        - Editing
-        - Graphics
-        - Subtitles
-    - Sufficiently satisfies time requirement
 - Contribution and Participation (5 pts.)
     - Did you actively participate?
+    - Was your voice clearly heard?
 ### Paper (20 pts.)
 - Argumentation (5 pts.)
     - Cogent logical arguments presented in writing
@@ -53,7 +54,7 @@ download:
     - Grammar
 - Research and Evidence (5 pts.)
     - Research material is diverse, well summarized
-    - 3 or more quality academic source articles
+    - 6 or more quality academic source articles
 ---
 
 ## ***Remember to proofread your paper!***
