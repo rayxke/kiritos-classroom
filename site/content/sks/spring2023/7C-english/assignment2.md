@@ -34,7 +34,7 @@ link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 3/27
+    - Submit on 4/14
     - Penalty for late submissions! 
 	- When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
     	- Example 7C1_70155_Keary.docx
