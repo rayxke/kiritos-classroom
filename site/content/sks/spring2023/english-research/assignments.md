@@ -8,10 +8,10 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Final Paper
-      link: sks/spring2023/english-research/assignment1
+      link: sks/spring2023/english-research/final-paper
     - image: /img/illustrations-meeting-space.svg
       text: >
         Research Portfolio
       disabled:
-      link: sks/spring2023/english-debate/assignment2
+      link: sks/spring2023/english-research/portfolio
 ---
