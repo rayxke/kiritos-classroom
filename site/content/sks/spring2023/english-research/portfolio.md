@@ -15,7 +15,7 @@ download:
 ---
 ---
 ## Instructions
-- Due TBA
+- Due 5/5
 - You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 40% of score also from this portfolio.
 
 ---
@@ -29,5 +29,5 @@ download:
 
 Me: But Teacher I submitted why is my grade so low?
 
-Teacher: Did you submit a *complete* research portfolio with references properly annotated?
+Teacher: Did you submit a *complete* research portfolio with references and proper summarization? Was it submitted on time?
 
