@@ -13,6 +13,8 @@ description: >-
 ## Lecture PPTs
 [Defining Argument and Debate](https://1drv.ms/b/s!Aj6UQEHKckJYb06_rmAEClTcurA?e=6HaCxc)
 
+[Claims & Propositions](https://1drv.ms/p/s!Aj6UQEHKckJYcIDeFClhyPwvY-M?e=wW4Ayj)
+
 [Ethos, Logos, Pathos, Mythos]()
 
 [Inductive vs. Deductive Logic]()
