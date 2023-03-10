@@ -15,8 +15,8 @@ The overarching goal of this course is to narrow your skills in research writing
 Fundamental skills in the writing process will also be improved as you dive into your area of focus.
 
 Choices in research areas for 2023 Spring:
-- Science
+- Science and Technology
 - Humanities and arts
 - Modern / Ancient history
-- Engineering/Technology
 - Psychology
+- Business and Economics
