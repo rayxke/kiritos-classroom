@@ -19,7 +19,7 @@ image:
 ## Rubric (10 pts.)
 ### Quality of Selected Research Articles (10 pts.)
 - Portfolio includes primary source research articles from journals. 
-- Wikipedia and search engines excluded. No baidu! No Naver! 
+- Wikipedia and search engines excluded. No Baidu! No Naver! 
 - Experts are selected 
 - Breadth and depth of material is appropriate. 
 ### Summarization and Paraphrasing (10 pts.)

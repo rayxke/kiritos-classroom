@@ -15,4 +15,6 @@ description: >-
 
 - [What is a Research Paper](https://1drv.ms/p/s!Aj6UQEHKckJYdqKj5ExfZ0g0pS0?e=jp7SzA)
 
+## Other Resources
+- [Engineering Resources & Websites](sks/spring2023/english-research/engineering)
 ---
