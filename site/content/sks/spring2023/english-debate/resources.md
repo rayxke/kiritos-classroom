@@ -15,7 +15,7 @@ description: >-
 
 [Claims & Propositions](https://1drv.ms/p/s!Aj6UQEHKckJYcIDeFClhyPwvY-M?e=wW4Ayj)
 
-[Ethos, Logos, Pathos, Mythos]()
+[Ethos, Logos, Pathos](https://1drv.ms/p/s!Aj6UQEHKckJYeIXRuKhVVJDsJIU?e=JJAWmF)
 
 [Inductive vs. Deductive Logic]()
 
