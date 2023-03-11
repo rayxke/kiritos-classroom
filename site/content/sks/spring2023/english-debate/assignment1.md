@@ -1,11 +1,11 @@
 ---
-title: Assignment 1
+title: Draft
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 1
+    Submit Draft
 link: 
-    https://inbox.weiyun.com/6nIlf2O0
+    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/EpZdCG6oWOlOmghCOWo1-lMBFHV9sly8ASasT2-ZYs72fw
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -15,6 +15,9 @@ image:
 2. Please submit a written draft of the argumentative position paper. It should be 800-1000 words. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
 3. A rehearsed, PPT presentation with audio-recorded two minute position and rebuttal statement.
 4. Due 4/7
+5. All files should be named "StudentNumber_Name_Draft.xxx"
+    - PPT Example "120155_Kirito_Draft.pptx"
+    - Doc Example "120155_Kirito_Draft.docx"
 ---
 ## Rubric (40 pts.)
 ### Paper (20 pts.)

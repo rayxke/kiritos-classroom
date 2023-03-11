@@ -7,15 +7,11 @@ intro:
   blurbs:
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 1
-      subject: > 
-        (Rough Draft)
+        Draft
       link: sks/spring2023/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 2
-      subject: > 
-        (Final Project)
+        Final Project
       disabled:
       link: sks/spring2023/english-debate/assignment2
 ---

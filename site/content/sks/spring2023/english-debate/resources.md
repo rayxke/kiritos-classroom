@@ -2,7 +2,7 @@
 title: English Debate Resources
 layout: resources
 description: >-
-  I will post the different resources we use in class here! Mostly videos and ppts. :)
+  The following are resources that we will use in class.
 ---
 ---
 ## Textbooks
@@ -20,14 +20,5 @@ description: >-
 [Inductive vs. Deductive Logic]()
 
 [Informal Fallacies]()
-
-[Debatable Matters]()
-
-## Selected Readings
-
-TBD
-
-## Videos
-Interesting Videos Here
 
 ---

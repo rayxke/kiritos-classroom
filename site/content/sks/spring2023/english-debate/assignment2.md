@@ -1,27 +1,23 @@
 ---
-title: Final Assignment
+title: Final
 layout: assignment-turnin
 description: >-
 text: >
     Submit Final Assignment
 link: 
-    https://inbox.weiyun.com/SjzmIKjn
+    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/EvllGrEzAq1Ol0kU2QKs28IBEyAH4pN8z5UVXM_Mzjr-Iw
 image: 
     /img/surprised-pikachu.jpeg
-text2:
-    Download Template
-download:
-    /docs/MLA_Essay_Template.docx
 ---
 ---
 ## Instructions
-- Due 2023/05/08
+- Due 2023/05/07
 - This assigment has **two parts**. An Oral and Written Part. Submit your PPT and Final Paper.
 - The paper should be named "StudentNumber_Name.docx"
-- Example 120155_Keary.docx
-- PPT should be named Team_Name.pptx
+- Example 120155_Kirito_Final.docx
+- PPT should be named TeamName_Final.pptx
 - Please include names and student numbers in the PPT
-- Example Pikachu.pptx
+- Example Pikachu_Final.pptx
 ### Lincoln Douglass Debate
 - Add specifics later
 ### Paper
@@ -29,16 +25,18 @@ download:
 ---
 ## Rubric (40 pts.)
 ### Lincoln Douglass Debate (20 pts.)
-- Argumentation (10 pts.)
+- Argumentation (5 pts.)
     - Arguments are coherent and lacking in fallacies
     - Evidence ties to position well
-    - Well thought out rebuttal and consideration of oppositions arguments
+- Rebuttal (5 pts.)
+    - Well thought out consideration of oppositions arguments
+    - Rebuttal clearly addressed oppositions arguments
 - Quality of Research (5 pts.)
     - Background info is well researched from reliable sources
     - Naver, Wiki, Search Engines (Google, Bing, etc.) are NOT reliable sources
-- Contribution and Participation (5 pts.)
-    - Did you actively participate?
-    - Was your voice clearly heard?
+- Language (5 pts.)
+    - Effective use of debate rhetoric
+    - Appropriate and clear language
 ### Paper (20 pts.)
 - Argumentation (5 pts.)
     - Cogent logical arguments presented in writing
