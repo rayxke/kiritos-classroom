@@ -1,5 +1,5 @@
 ---
-title: Research Portfolio
+title: Research Presentation
 layout: assignment-turnin
 description: >-
 text: >
@@ -16,7 +16,7 @@ image:
 - 30% of total score comes from this portfolio.
 
 ---
-## Rubric (30 pts.)
+## Rubric (10 pts.)
 ### Quality of Selected Research Articles (10 pts.)
 - Portfolio includes primary source research articles from journals. 
 - Wikipedia and search engines excluded. No baidu! No Naver! 
