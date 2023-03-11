@@ -1,10 +1,7 @@
 ---
-title: English Research
+title: Theme Based Research & Report
 layout: grade
-image: /img/debating.png
-heading: Everything You Need Here!
-description: >-
-  The overarching goal of this course is to improve your ability to communicate in English, both oral and written aspects. To that end we will have different course activities to help strengthen communication abilities and reinforce what you have already learned.
+image: /img/research.png
 intro:
   blurbs:
     - image: /img/syllabus.svg
