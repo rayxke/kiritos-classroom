@@ -11,14 +11,12 @@ description: >-
 [Discovering the World Through Debate (3rd Edition)](https://www.amazon.com/Discovering-World-Through-Debate-Educational/dp/1932716068)
 
 ## Lecture PPTs
-[Defining Argument and Debate](https://1drv.ms/b/s!Aj6UQEHKckJYb06_rmAEClTcurA?e=6HaCxc)
+Defining Argument and Debate [Tencent Drive](https://share.weiyun.com/ftKLCSIY) | [One Drive](https://1drv.ms/b/s!Aj6UQEHKckJYb06_rmAEClTcurA?e=6HaCxc)
 
-[Claims & Propositions](https://1drv.ms/p/s!Aj6UQEHKckJYcIDeFClhyPwvY-M?e=wW4Ayj)
+Claims & Propositions [Tencent Drive](https://share.weiyun.com/I9PTi3jG) | [One Drive](https://1drv.ms/p/s!Aj6UQEHKckJYcIDeFClhyPwvY-M?e=wW4Ayj)
 
-[Ethos, Logos, Pathos](https://1drv.ms/p/s!Aj6UQEHKckJYeIXRuKhVVJDsJIU?e=JJAWmF)
+Ethos, Logos, Pathos [Tencent Drive](https://share.weiyun.com/WCuHaZvo) | [One Drive](https://1drv.ms/p/s!Aj6UQEHKckJYeIXRuKhVVJDsJIU?e=JJAWmF)
 
-[Inductive vs. Deductive Logic]()
-
-[Informal Fallacies]()
+Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](https://1drv.ms/p/s!Aj6UQEHKckJYefpJVHEe2e1XET8?e=ak42Si)
 
 ---
