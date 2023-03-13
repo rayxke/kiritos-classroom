@@ -21,7 +21,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 3/24 AND **bring it to class on a USB**
+	* Submit on 3/27 AND **bring it to class on a USB**
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?
