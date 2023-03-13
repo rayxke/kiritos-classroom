@@ -28,11 +28,11 @@ Debate formats will include Lincoln-Douglas. With all debate formats, students w
 
 ### Law and Policy
 #### Prompt 1
-It is frequently debated which legal measures are most useful to prevent violent crimes and substance abuse. Some countries favor a humane approach and others are more punative. 
+It is frequently debated which legal measures are most useful to prevent violent crimes and substance abuse. Some countries favor a humane approach and others are more punitive. 
 
 **Affirmative Position**: You are in favor of the humane approach. This idea is against capital punishment and in support of rehabilitation and educational programs.  
 
-**Negative Position**: You are in favor of the punative approach. This position supports long prison sentences and the death sentence. 
+**Negative Position**: You are in favor of the punitive approach. This position supports long prison sentences and the death sentence. 
 
 #### Prompt 2
 Climate change is presenting significant challenges to the global economy. It is causing multiple significant impacts on extreme weather patterns, causing flooding, starvation, formation of deserts and typhoones. Some people believe international organizations such as the United Nations and national leaders are in the best position to solve the climate crisis. Others think corporate CEOs of multinational companies are most responsible and in a position to make meaningful changes to prevent a crisis. 
