@@ -16,11 +16,10 @@ description: >-
 |  6 |  4/3-4/7             | Annotated Bibliography  |   [Homework 5 Due](https://forms.microsoft.com/r/wSWrWewzFq)       |
 |  7 |  4/10-4/14           | Thesis Writing, Outlining and Drafting  | [Homework 6 Due](sks/spring2023/english-research/homework6)             |
 |  8 |  4/17-4/21           | MLA and APA Referencing | [Homework 7 Due](sks/spring2023/english-research/homework7)      |
-|  9 |  4/24-4/28           | Revising and Editing | Homework 8 Due |
-| | | |Homework 9 Due|
-| 10 |  5/1-5/5             | Peer Review, Presentations  | [Homework 10 Due](https://forms.microsoft.com/r/fMKW1JzB1b)      |
-| | | |[Final Paper Due](sks/spring2023/english-research/final-paper)|
+|  9 |  4/24-4/28           | Peer Review, Revising & Editing |[Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b) |
+| 10 |  5/1-5/5             | Presentations  | [Final Paper Due](sks/spring2023/english-research/final-paper)      |
 | | | |[Portfolio Due](sks/spring2023/english-research/portfolio)|
+| | | |[Presentation Due](sks/spring2023/english-research/presentation)|
 | 11 |  5/8-5/12            | Review  | |
 | 12 |  5/15-5/19           | Review  |   
 | 13 |  5/22-5/26           | Self-Study  | |
