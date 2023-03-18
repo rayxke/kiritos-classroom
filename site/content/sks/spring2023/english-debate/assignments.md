@@ -7,6 +7,10 @@ intro:
   blurbs:
     - image: /img/illustrations-meeting-space.svg
       text: >
+        Outline
+      link: sks/spring2023/english-debate/outline
+    - image: /img/illustrations-meeting-space.svg
+      text: >
         Draft
       link: sks/spring2023/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg

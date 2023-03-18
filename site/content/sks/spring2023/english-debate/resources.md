@@ -19,4 +19,8 @@ Ethos, Logos, Pathos [Tencent Drive](https://share.weiyun.com/WCuHaZvo) | [One D
 
 Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](https://1drv.ms/p/s!Aj6UQEHKckJYefpJVHEe2e1XET8?e=ak42Si)
 
+## Helpful Links
+
+[Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
+
 ---
