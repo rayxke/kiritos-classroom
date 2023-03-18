@@ -17,4 +17,8 @@ description: >-
 
 ## Other Resources
 - [Engineering Resources & Websites](sks/spring2023/english-research/engineering)
+
+## Anonymous Feedback
+- Feel free to leave [anonymous feedback](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUNkQ5TDFMM1hDS0RWSjJGSk4xVEpERUxXQS4u) about the class.
+
 ---

@@ -23,4 +23,7 @@ Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](
 
 [Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
 
+## Anonymous Feedback
+Feel free to leave [anonymous feedback](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUMUs0VVpJVFlUUDBDSFlBQjBCMVA0RlNSUS4u) about the class.
+
 ---
