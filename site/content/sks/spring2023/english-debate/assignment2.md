@@ -5,7 +5,7 @@ description: >-
 text: >
     Submit Final Assignment
 link: 
-    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/EvllGrEzAq1Ol0kU2QKs28IBEyAH4pN8z5UVXM_Mzjr-Iw
+    https://inbox.weiyun.com/775SVcDN
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -15,9 +15,9 @@ image:
 - This assigment has **two parts**. An Oral and Written Part. Submit your PPT and Final Paper.
 - The paper should be named "StudentNumber_Name.docx"
 - Example 120155_Kirito_Final.docx
-- PPT should be named TeamName_Final.pptx
+- PPT should be named Topic_Positon_Final.pptx
+- Example Pikachu_Affirmative_Final.pptx
 - Please include names and student numbers in the PPT
-- Example Pikachu_Final.pptx
 ### Lincoln Douglass Debate
 - Please read the instructions for the [Lincoln Douglass Debate](sks/spring2023/ld-debate) carefully.
 
@@ -55,8 +55,7 @@ image:
     - Research material is diverse, well summarized
     - 6 or more quality academic source articles
 ---
-
-## ***Remember to proofread your paper!***
+***Prepare Well!***
 
         Don’t be like this at the end of the semester!
 

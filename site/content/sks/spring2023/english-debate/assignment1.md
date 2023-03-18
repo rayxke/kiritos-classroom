@@ -5,7 +5,7 @@ description: >-
 text: >
     Submit Draft
 link: 
-    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/EpZdCG6oWOlOmghCOWo1-lMBFHV9sly8ASasT2-ZYs72fw
+    https://inbox.weiyun.com/YDnnoQOD
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -48,11 +48,12 @@ image:
         - Graphics
         - Subtitles
     - Sufficiently satisfies time requirement
-***Friendly reminder: Remember to rehearse your presentation!***
+---
+***Friendly reminder!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Teacher I submitted my assignment why is my grade so low?
 
-Teacher: Did you submit both a rough draft of your argumentative position paper AND the opening statement and rebuttal PPT? Did your PPT include the recorded audio? Was your PPT a wall of text?
+Teacher: Did you submit both a rough draft of your argumentative position paper AND a PPT of the opening statement and rebuttal? Did your PPT include the recorded audio? Was your PPT a wall of text?
 
