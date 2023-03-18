@@ -5,9 +5,14 @@ description: >-
 ---
 ## Grading
 
-  - 40% Speaking
-  - 40% Writing
-  - 20% Homework and Participation
+### Speaking (40%)
+There will be two speaking assignments each worth 20 points. The first is a short powerpoint presentation of a position argument and a rebuttal. The other portion of the grade comes from the in class debate. The in-class debate is a semester long project and so should be thoroughly prepared.
+
+### Writing (40%)
+There will be two writing assignments each worth 20 points. The first is a rough draft of the argumentative position paper. The second is the final draft of the argumentative position paper. It is important to apply the feedback given to the rough draft in the final draft of your paper.
+
+### Homework and Participation (20%)
+Homework assignments will mostly be short written assignments honing concepts and debate techniques covered in class as well as guiding you in crafting both your argumentative position paper and in class debate material. Participation means coming to class and having an active part in discussions and activities. This is important as class time is the best time to practice oral debate.
 
 ## Course Objectives
 The overarching goal of this course is to improve your capacity for critical questioning of argumentive assersions. We will improve your engage in critical discourse both verbally and in writing. The Argument and Debate course is taught in a fun, yet challenging classroom setting. Students receive encouragement and gain confidence as they practice argument and debate skills in a spirit of fellowship. The argument and debate fundamentals of types of arguments, constructing arguments, defending positions, choosing evidence, documenting sources, studying logical reasoning, recognizing fallacies of reasoning, cross-examining opponents, delivering rebuttals, writing debate ballots, and giving oral critiques are integral components of this course. 
@@ -21,7 +26,7 @@ Assigned readings, writings, and research will be integrated into the course.
 
 <br>
 
-Debate formats will include Lincoln-Douglas. With all debate formats, students will serve as moderators. Course work is challenging, reasonable, and workable with the other courses a student takes.
+Debate formats will include [Lincoln-Douglas](sks/spring2023/ld-debate). With all debate formats, students will serve as moderators. Course work is challenging, reasonable, and workable with the other courses a student takes.
 
 
 ## Spring 2023 Debate Topics
