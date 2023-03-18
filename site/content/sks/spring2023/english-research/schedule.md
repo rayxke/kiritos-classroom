@@ -13,7 +13,7 @@ description: >-
 |  3 |  3/13-3/17           | Choosing a Topic  |   [Homework 2 Due](sks/spring2023/english-research/homework2)      |
 |  4 |  3/20-3/24           | Library Science Fundamentals  |  [Homework 3 Due](https://forms.microsoft.com/r/rAqU8U0maS)        |
 |  5 |  3/27-3/31           | Online Sources and Credibility  |  [Homework 4 Due](https://forms.microsoft.com/r/9K9Y5S1y10)       |
-|  6 |  4/3-4/7             | Annotated Bibliography  |   [Homework 5 Due](https://forms.microsoft.com/r/wSWrWewzFq)       |
+|  6 |  4/3-4/7             | Annotated Bibliography  |   [Homework 5 Due](sks/spring2023/english-research/homework5)       |
 |  7 |  4/10-4/14           | Thesis Writing, Outlining and Drafting  | [Homework 6 Due](sks/spring2023/english-research/homework6)             |
 |  8 |  4/17-4/21           | MLA and APA Referencing | [Homework 7 Due](sks/spring2023/english-research/homework7)      |
 |  9 |  4/24-4/28           | Peer Review, Revising & Editing |[Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b) |
