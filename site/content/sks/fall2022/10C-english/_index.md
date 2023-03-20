@@ -22,5 +22,5 @@ intro:
     - image: img/books.svg
       text: >
         Resources
-      link: sks/fall2022/10C-english/powerpoints
+      link: sks/fall2022/10C-english/resources
 ---

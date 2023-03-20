@@ -1,6 +1,6 @@
 ---
 title: 10C Resources
-layout: powerpoints
+layout: resources
 description: >-
   I will post class resources here! :)
 

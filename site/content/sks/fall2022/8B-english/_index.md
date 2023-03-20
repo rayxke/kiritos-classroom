@@ -10,9 +10,9 @@ intro:
     - image: /img/syllabus.svg
       text: >
         Syllabus
-      link: fall2022/8B-english/syllabus
+      link: sks/fall2022/8B-english/syllabus
     - image: /img/pencil.svg
       text: >
         Assignments
-      link: fall2022/8B-english/assignments
+      link: sks/fall2022/8B-english/assignments
 ---
