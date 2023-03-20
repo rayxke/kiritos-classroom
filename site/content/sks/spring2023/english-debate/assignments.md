@@ -15,7 +15,7 @@ intro:
       link: sks/spring2023/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Final Project
+        Final
       disabled:
       link: sks/spring2023/english-debate/assignment2
 ---
