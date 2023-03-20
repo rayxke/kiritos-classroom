@@ -9,7 +9,7 @@ description: >-
 {{<table "mw8 center dt--fixed">}}
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
-|  1 |  03/01-03/03             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
+|  1 |  3/1-3/3             | Intro | [Homework 1 Due](https://forms.microsoft.com/r/xxnrPeQb1G)         |
 |  2 |  3/6-3/10            | Defining Argument and Debate |  [Homework 2 Due](https://forms.microsoft.com/r/jpC8nm4Qah)        |
 |  3 |  3/13-3/17           | Ethos, Logos, Pathos, Mythos  |   [Homework 3 Due](https://forms.microsoft.com/r/4McD5tsE5v)       |
 |  4 |  3/20-3/24           | Inductive vs. Deductive Logic  |  [Homework 4 Due](sks/spring2023/english-debate/outline/)        |
