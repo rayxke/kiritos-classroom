@@ -3,11 +3,13 @@ title: Assignment 1
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 1
-text2:
-    Download Template
+    Submit Assignment 1 (8B1)
+fenbie:
+    Submit Assignment 1 (8B2)
 link: 
     https://inbox.weiyun.com/SwjJgkXH
+link2:
+    https://inbox.weiyun.com/8v9pJJqu
 image: 
     /img/surprised-pikachu.jpeg
 ---
