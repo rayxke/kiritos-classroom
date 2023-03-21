@@ -19,6 +19,8 @@ Ethos, Logos, Pathos [Tencent Drive](https://share.weiyun.com/WCuHaZvo) | [One D
 
 Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](https://1drv.ms/p/s!Aj6UQEHKckJYefpJVHEe2e1XET8?e=ak42Si)
 
+Inductive vs. Deductive Logic [Tencent Drive](https://share.weiyun.com/gnXkCRc4) | [Google Drive](https://docs.google.com/presentation/d/1XPYIQyV91CIYTNLr7Wc1V-VUBCMjcRnd/edit?usp=sharing&ouid=106340071982720803011&rtpof=true&sd=true)
+
 ## Helpful Links
 
 [Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
