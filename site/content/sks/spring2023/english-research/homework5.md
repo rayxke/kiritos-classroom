@@ -9,7 +9,7 @@ link:
 ---
 ---
 ## Instructions
-- Due 4/07
+- Due 4/7
 - Submit a complete outline with title, section headings and a start of bibliography
 - The document should be named "StudentNumber_Name_Outline.docx"
 - Example "120158_Bobby_Outline.docx"
