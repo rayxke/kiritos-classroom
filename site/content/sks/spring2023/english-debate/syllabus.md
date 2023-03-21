@@ -26,7 +26,7 @@ Assigned readings, writings, and research will be integrated into the course.
 
 <br>
 
-Debate formats will include [Lincoln-Douglas](sks/spring2023/ld-debate). With all debate formats, students will serve as moderators. Course work is challenging, reasonable, and workable with the other courses a student takes.
+Debate formats will include [Lincoln-Douglas](sks/spring2023/english-debate/ld-debate). With all debate formats, students will serve as moderators. Course work is challenging, reasonable, and workable with the other courses a student takes.
 
 
 ## Spring 2023 Debate Topics

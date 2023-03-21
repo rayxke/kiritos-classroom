@@ -19,7 +19,7 @@ image:
 - Example Pikachu_Affirmative_Final.pptx
 - Please include names and student numbers in the PPT
 ### Lincoln Douglass Debate
-- Please read the instructions for the [Lincoln Douglass Debate](sks/spring2023/ld-debate) carefully.
+- Please read the instructions for the [Lincoln Douglass Debate](sks/spring2023/english-debate/ld-debate) carefully.
 
 ### Paper
 - Please submit a final draft of the argumentative position paper. It should be 800-1000 words. It should follow a standard structure and include one of the appeals discussed in class (Pathos, Logos, Ethos)
