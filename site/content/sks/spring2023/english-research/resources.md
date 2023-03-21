@@ -11,9 +11,11 @@ description: >-
 - [A Writer's Reference (7th Edition)](https://www.amazon.com/Writers-Reference-Diana-Hacker/dp/1319057446) by Hackler & Sommers
 
 ## Lecture PPTs
-- [Engineering Fields](https://1drv.ms/p/s!Aj6UQEHKckJYdx0AzqJMcOMhfjs?e=g7GILW)
+- [Engineering Fields Overview](https://1drv.ms/p/s!Aj6UQEHKckJYdx0AzqJMcOMhfjs?e=g7GILW)
 
-- [What is a Research Paper](https://1drv.ms/p/s!Aj6UQEHKckJYdqKj5ExfZ0g0pS0?e=jp7SzA)
+- [What is a Research Paper?](https://1drv.ms/p/s!Aj6UQEHKckJYdqKj5ExfZ0g0pS0?e=jp7SzA)
+
+- [Library Science Fundamentals](https://docs.google.com/presentation/d/1uTf8-I8llr6uE9TO6BY6FXYNJzBotV9d/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
 
 ## Other Resources
 - [Engineering Resources & Websites](sks/spring2023/english-research/engineering)
