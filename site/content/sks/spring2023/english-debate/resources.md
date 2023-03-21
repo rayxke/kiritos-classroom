@@ -25,6 +25,8 @@ Inductive vs. Deductive Logic [Tencent Drive](https://share.weiyun.com/gnXkCRc4)
 
 [Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
 
+[Lincoln Douglass Debate Format](sks/spring2023/english-debate/ld-debate)
+
 ## Anonymous Feedback
 Feel free to leave [anonymous feedback](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUMUs0VVpJVFlUUDBDSFlBQjBCMVA0RlNSUS4u) about the class.
 
