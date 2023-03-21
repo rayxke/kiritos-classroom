@@ -1,6 +1,5 @@
 ---
-title: "Kirito's Classroom"
-subtitle: All Class Information is Here!
+title: "Welcome to Kirito's Classroom! "
+subtitle: "(Pika Pika!)"
 image: /img/detective-pikachu-dance.gif
 ---
-
