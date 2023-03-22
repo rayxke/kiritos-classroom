@@ -7,7 +7,7 @@ text: >
 fenbie:
     Submit Assignment 1 (8B2)
 link: 
-    https://inbox.weiyun.com/SwjJgkXH
+    https://inbox.weiyun.com/kF0k3Qr9
 link2:
     https://inbox.weiyun.com/8v9pJJqu
 image: 
