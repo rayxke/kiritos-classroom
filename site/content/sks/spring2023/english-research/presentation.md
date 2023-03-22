@@ -14,6 +14,12 @@ image:
 - Due 5/5
 - You must prepare a short presentation about your research
 - 10% of your score comes from this presentation.
+- The document should be named "TeacherName_StudentNumber_Name_Presentation.pptx"
+- Example "Bobby_120155_Kirito_Presentation.docx"
+- Example "Damon_120155_Kirito_Presentation.docx"
+- Example "Jon_120155_Kirito_Presentation.docx"
+- Example "Kevin_120155_Kirito_Presentation.docx"
+- Files not properly named **may receive a zero** for this assignment (and a BIG frownie face)
 
 ---
 ## Rubric (10 pts.)

@@ -14,6 +14,12 @@ image:
 - Due 5/5
 - You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 
 - 30% of total score comes from this portfolio.
+- The document should be named "TeacherName_StudentNumber_Name_Portfolio.docx"
+- Example "Bobby_120155_Kirito_Portfolio.docx"
+- Example "Damon_120155_Kirito_Portfolio.docx"
+- Example "Jon_120155_Kirito_Portfolio.docx"
+- Example "Kevin_120155_Kirito_Portfolio.docx"
+- Files not properly named **may receive a zero** for this assignment (and a BIG frownie face)
 
 ---
 ## Rubric (30 pts.)
@@ -27,7 +33,7 @@ image:
 - Attempts are made to define technical words 
 ### Format and Conventions (10 pts.)
 - Punctuation, spelling, and capitalization
-- Formatting standards per MLA
+- Formatting standards per MLA or APA
 - Citation format proper 
 ---
 
@@ -35,5 +41,5 @@ image:
 
 Me: But Teacher I submitted my portfolio why is my grade so low?
 
-Teacher: Did you submit a *complete* research portfolio with references and proper summarization? Were citations in MLA format? Was it submitted on time?
+Teacher: Did you submit a *complete* research portfolio with references and proper summarization? Were citations in the format specified by your teacher? Was it submitted on time?
 
