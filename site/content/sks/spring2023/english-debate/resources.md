@@ -21,9 +21,13 @@ Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](
 
 Inductive vs. Deductive Logic [Tencent Drive](https://share.weiyun.com/gnXkCRc4) | [Google Drive](https://docs.google.com/presentation/d/1XPYIQyV91CIYTNLr7Wc1V-VUBCMjcRnd/edit?usp=sharing&ouid=106340071982720803011&rtpof=true&sd=true)
 
+How to Write an Argumentative Paper on [Owl Purdue](https://owl.purdue.edu/owl/teacher_and_tutor_resources/teaching_resources/documents/20071015022547_693.ppt)
+
 ## Helpful Links
 
 [Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
+
+[Owl Purdue Website](https://owl.purdue.edu)
 
 [Lincoln Douglass Debate Format](sks/spring2023/english-debate/ld-debate)
 
