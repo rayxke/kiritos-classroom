@@ -5,12 +5,12 @@ description: >-
 text: >
     Submit Homework 5
 link: 
-    https://inbox.weiyun.com/eUzoBkBR
+    https://docs.google.com/forms/d/e/1FAIpQLSfDsA5zCppBvxxkMdka5LWLera_VyzNwr1VzgXp7AhdBBF1Ew/viewform?usp=sf_link
 ---
 ---
 ## Instructions
 - Due 4/7
 - Submit a complete outline with title, section headings and a start of bibliography
-- The document should be named "StudentNumber_Name_Outline.docx"
-- Example "120158_Bobby_Outline.docx"
+- The document should be named "TeacherName_StudentNumber_Name_Outline.docx"
+- Example "Bobby_120158_Kirito_Outline.docx"
 - Files not properly named **may receive a zero** for this homework
