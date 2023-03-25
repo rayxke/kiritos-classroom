@@ -21,7 +21,11 @@ Project Topics [Tencent Drive](https://share.weiyun.com/93fVKotm) | [One Drive](
 
 Inductive vs. Deductive Logic [Tencent Drive](https://share.weiyun.com/gnXkCRc4) | [Google Drive](https://docs.google.com/presentation/d/1XPYIQyV91CIYTNLr7Wc1V-VUBCMjcRnd/edit?usp=sharing&ouid=106340071982720803011&rtpof=true&sd=true)
 
-How to Write an Argumentative Paper on [Owl Purdue](https://owl.purdue.edu/owl/teacher_and_tutor_resources/teaching_resources/documents/20071015022547_693.ppt)
+[How to Write an Argumentative Paper](https://owl.purdue.edu/owl/teacher_and_tutor_resources/teaching_resources/documents/20071015022547_693.ppt) from Owl Purdue
+
+Quality of Arguments [Tencent Drive](https://share.weiyun.com/HeM7eQd8) | [Google Drive](https://docs.google.com/presentation/d/1BaqKOWmih6sL5PhjXhQNeINRv0D3ESgf/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
+
+Logical Fallacies [Tencent Drive](https://share.weiyun.com/qXMDHFDg) | [Google Drive](https://docs.google.com/presentation/d/16lq9Kv3zf70SUn6tyGKKsRiuWUhkki5a/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
 
 ## Helpful Links
 
@@ -30,6 +34,10 @@ How to Write an Argumentative Paper on [Owl Purdue](https://owl.purdue.edu/owl/t
 [Owl Purdue Website](https://owl.purdue.edu)
 
 [Lincoln Douglass Debate Format](sks/spring2023/english-debate/ld-debate)
+
+[List of Logical Fallacies](https://web.cn.edu/kwheeler/fallacies_list.html)
+
+Fill out [this survey](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for 5 extra points to your grade!
 
 ## Anonymous Feedback
 Feel free to leave [anonymous feedback](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUMUs0VVpJVFlUUDBDSFlBQjBCMVA0RlNSUS4u) about the class.
