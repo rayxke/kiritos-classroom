@@ -21,7 +21,7 @@ description: >-
 | 11 |  5/8-5/12            | Unit 3  | |
 | 12 |  5/15-5/19           | Unit 3  | [Assignment 3](sks/spring2023/8B-english/assignment3)      |
 | 13 |  5/22-5/26           | Unit 3  | |
-| 14 |  5/29-6/2            | Unit 3  | [Assignment 4](sks/spring2023/8B-english/assignment4)|
+| 14 |  5/29-6/2            | Unit 3  | Assignment 4|
 | 15 |  6/5-6/9             | Review  |             |
 | 16 |  6/12-6/16           |Self-Study|
 | 17 |  6/19-6/23           | Final Exams |             |
