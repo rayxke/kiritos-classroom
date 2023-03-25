@@ -3,9 +3,13 @@ title: Assignment 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 2
+    Submit Assignment 2 (8B1)
+fenbie:
+    Submit Assignment 2 (8B2)
 link: 
-    https://inbox.weiyun.com/mnsaL74o
+    https://inbox.weiyun.com/EuBiYUE7
+link2:
+    https://inbox.weiyun.com/K6PpTr7X
 image: 
     /img/surprised-pikachu.jpeg
 ---

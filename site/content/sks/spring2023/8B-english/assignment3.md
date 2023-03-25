@@ -5,13 +5,16 @@ description: >-
 text: >
     Submit Assignment 3 (8B1)
 link: 
-    https://inbox.weiyun.com/rI4Uu2Mg
+    https://inbox.weiyun.com/xTNhz8ce
+fenbie:
+    Submit Assignment 3 (8B2)
+link2:
+    https://inbox.weiyun.com/S198zSOq
 image: 
     /img/surprised-pikachu.jpeg
-fenbie: Submit Assignment 3 (8B2)
-link2: https://inbox.weiyun.com/6mc2PBpQ
 ---
 ---
+
 ## Instructions
 * Prepare a presentation introducing three ecofriendly methods of transportation.
 * The presentation should be 3-5 minutes.

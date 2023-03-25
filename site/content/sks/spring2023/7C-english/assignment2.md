@@ -6,10 +6,6 @@ text: >
     Submit Assignment 2 (7C1)
 link: 
     https://inbox.weiyun.com/sijQpA1Q
-text2:
-    Download Template
-download:
-    /docs/MiddleSchoolEssayTemplate.docx
 image: 
     /img/surprised-pikachu.jpeg
 fenbie: Submit Assignment 2 (7C2)
@@ -17,19 +13,22 @@ link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ---
 ## Instructions
-1. Think about a time when you felt one of the following emotions.
+#### 1. Think about a time when you felt one of the following emotions.
 * Happiness
 * Fear
 * Surprise
 * Sadness
 * Anger
 * Disgust 
-2. Describe it 
-    * What happened?
-    * How did you feel?
-    * What did you do?
-	* What did you learn from the experience?
-3. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
+#### 2. Describe it 
+* What happened?
+* How did you feel?
+* What did you do?
+* What did you learn from the experience?
+#### 3. The essay should be **at least three paragraphs** (**300-400 words**)
+* Intro
+* Body
+* Conclusion
 
 ---
 ## Grading (20 pts.)
