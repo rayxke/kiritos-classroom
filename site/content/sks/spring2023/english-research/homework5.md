@@ -10,7 +10,11 @@ link:
 ---
 ## Instructions
 - Due 4/7
-- Submit a complete outline with title, section headings and a start of bibliography
+- Submit a complete outline with title, section headings and a start of bibliography (3 sources at least)
 - The document should be named "TeacherName_StudentNumber_Name_Outline.docx"
 - Example "Bobby_120158_Kirito_Outline.docx"
 - Files not properly named **may receive a zero** for this homework
+## Tips
+- Feel free to use the [Outline Template](https://docs.google.com/file/d/1rEhR7PEyIdW_2VfLGqiuLLFSb3SEsrb1/edit?usp=docslist_api&filetype=msword)
+- This [Outline Worksheet](https://drive.google.com/file/d/1BjevH6QFadObWLvbwNxpnsL3kS8tkn3J/view?usp=drivesdk) should help you to understand what to put in your outline.
+- Use [EasyBib](https://www.easybib.com) to help with source citations.
