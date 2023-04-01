@@ -5,7 +5,7 @@ description: >-
 text: >
     Submit Homework 6
 link: 
-    https://inbox.weiyun.com/l7g9CDh7
+    https://docs.google.com/forms/d/e/1FAIpQLSdApWyvIKVTvS-CPzqHlxUJPk-TjAxcqQwHCoj7A4ua_nCZJg/viewform?usp=sf_link
 ---
 ---
 ## Instructions
