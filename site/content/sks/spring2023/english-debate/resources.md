@@ -37,6 +37,10 @@ Logical Fallacies [Tencent Drive](https://share.weiyun.com/qXMDHFDg) | [Google D
 
 [List of Logical Fallacies](https://web.cn.edu/kwheeler/fallacies_list.html)
 
+[MLA Essay Template](https://docs.google.com/file/d/1di2V9djiRMRMan4UkpzHD2FdqD2JjJVY/edit?usp=docslist_api&filetype=msword)
+
+[How to Make an Effective PPT](https://docs.google.com/file/d/16lld-MqUFGwF65-f_FdCuuZ9fWAM1CRG/edit?usp=docslist_api&filetype=mspresentation) by Victor Chen
+
 Fill out [this survey](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for 5 extra points to your grade!
 
 ## Anonymous Feedback
