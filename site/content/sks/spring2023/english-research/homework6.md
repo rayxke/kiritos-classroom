@@ -19,5 +19,5 @@ link:
 - Example "Kevin_120155_Kirito_PortfolioDraft.docx"
 - Files not properly named **may receive a zero** for this homework.
 ## Tips
-- Feel free to use the [Portfolio Template](https://docs.google.com/document/d/1Sm-WBq_hOoY72JHembDFX6ZUISS6tdnB/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
-- You can use [EasyBib](https://www.easybib.com) to help with source citations but make sure to check that it is generated properly!
+- Feel free to use the [APA Portfolio Template](https://docs.google.com/document/d/1Sm-WBq_hOoY72JHembDFX6ZUISS6tdnB/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true) or the [MLA Portfolio Template](https://docs.google.com/file/d/1SvEDCpn1UEF_uVpsqU2bg34i67VC7ABL/edit?usp=docslist_api&filetype=msword)
+- You can use a citation generator such as [EasyBib](https://www.easybib.com) to help with source citations but make sure to check that it is generated properly!

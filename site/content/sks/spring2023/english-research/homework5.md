@@ -18,4 +18,4 @@ link:
 ## Tips
 - Feel free to use the [Outline Template](https://docs.google.com/file/d/1rEhR7PEyIdW_2VfLGqiuLLFSb3SEsrb1/edit?usp=docslist_api&filetype=msword)
 - This [Outline Worksheet](https://drive.google.com/file/d/1BjevH6QFadObWLvbwNxpnsL3kS8tkn3J/view?usp=drivesdk) should help you to understand what to put in your outline.
-- You can use [EasyBib](https://www.easybib.com) to help with source citations but make sure the citation is generated properly!
+- You can use a citation generator such as [EasyBib](https://www.easybib.com) to help with source citations but make sure the citation is generated properly!
