@@ -18,7 +18,7 @@ image:
 - Example "Jon_120155_Kirito_FinalPaper.docx"
 - Example "Kevin_120155_Kirito_FinalPaper.docx"
 - Files not properly named **may receive a zero** for this assignment (and a BIG frownie face)
-- You will be expected to produce a fully reference review of literature (research report) that shall be 800 words or more in length and conform to all MLA standards. 
+- You will be expected to produce a fully reference review of literature (research report) that shall be 800 words or more in length and conform to all MLA/APA standards. 
 - Example papers will be given in class time. Multiple drafts and preparation will be involved in this extensive process as you gather source material. 
 - 40% of score comes from the final version of the term paper.
 ## Grading
@@ -38,7 +38,7 @@ image:
 - Subject-verb agreement
 - Standard word forms
 - Punctuation, spelling, and capitalization
-- Formatting standards per MLA
+- Formatting standards per MLA/APA
 - Citation format
 ---
 ***Friendly reminder: Remember to rehearse your presentation!***
@@ -47,5 +47,5 @@ image:
 
 Me: But Teacher I submitted why is my grade so low?
 
-Teacher: Was your research paper 800-1000 words? Did it conform to MLA standards? Were there sufficient references from reliable sources? (Not just Naver and Google)
+Teacher: Was your research paper 800-1000 words? Did it conform to MLA/APA standards? Were there sufficient references from reliable sources? (Not just Naver and Google)
 

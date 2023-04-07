@@ -33,7 +33,7 @@ image:
 - Attempts are made to define technical words 
 ### Format and Conventions (10 pts.)
 - Punctuation, spelling, and capitalization
-- Formatting standards per MLA or APA
+- Formatting standards per MLA/APA
 - Citation format proper 
 ---
 
