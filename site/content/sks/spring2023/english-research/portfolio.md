@@ -11,7 +11,7 @@ image:
 ---
 ---
 ## Instructions
-- Due 5/5
+- Due 5/14
 - You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 
 - 30% of total score comes from this portfolio.
 - The document should be named "TeacherName_StudentNumber_Name_Portfolio.docx"

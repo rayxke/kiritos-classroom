@@ -11,7 +11,7 @@ image:
 ---
 ---
 ## Instructions
-- Due 5/5
+- Due 5/14
 - You must prepare a short presentation about your research
 - 10% of your score comes from this presentation.
 - The document should be named "TeacherName_StudentNumber_Name_Presentation.pptx"

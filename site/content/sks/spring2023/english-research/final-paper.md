@@ -11,7 +11,7 @@ image:
 ---
 ---
 ## Instructions
-- Due 5/5
+- Due 5/14
 - The document should be named "TeacherName_StudentNumber_Name_FinalPaper.docx"
 - Example "Bobby_120155_Kirito_FinalPaper.docx"
 - Example "Damon_120155_Kirito_FinalPaper.docx"

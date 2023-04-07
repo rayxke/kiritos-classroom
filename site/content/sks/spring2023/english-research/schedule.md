@@ -20,10 +20,10 @@ description: >-
 | | | |  [Homework 7 Due](sks/spring2023/english-research/homework7)       |
 |  8 |  4/17-4/21           | Error Correction |       |
 |  9 |  4/24-4/28           | Peer Review, Revising & Editing |[Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b) |
-| 10 |  5/1-5/5             | Presentations  | [Final Paper Due](sks/spring2023/english-research/final-paper)      |
+| 10 |  5/1-5/5             | Presentations  |       |
+| 11 |  5/8-5/12            | Review  |[Final Paper Due](sks/spring2023/english-research/final-paper) |
 | | | |[Portfolio Due](sks/spring2023/english-research/portfolio)|
 | | | |[Presentation Due](sks/spring2023/english-research/presentation)|
-| 11 |  5/8-5/12            | Review  | |
 | 12 |  5/15-5/19           | Review  |   
 | 13 |  5/22-5/26           | Self-Study  | |
 | 14 |  5/29-6/2            | Final Exams  |    |
