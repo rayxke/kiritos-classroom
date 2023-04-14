@@ -7,9 +7,10 @@ image:
 ---
 ---
 ## Instructions
--You will prepare a research report that shall be 800 words or more in length and conform to all MLA/APA standards. 
-- Use the templates!  
+- You will prepare a research report that shall be 800 words or more in length and conform to all MLA/APA standards. 
+- Use the [APA template](https://docs.google.com/document/d/1XYLYpv6UT1L5TINqOz0IR6Q9XAoSWBxv/edit?usp=sharing&ouid=106340071982720803011&rtpof=true&sd=true) or [MLA template](https://docs.google.com/document/d/1heyKJB0aHgCSFQR8IdlcZ0m6QTVDEWzh/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)!  
 - 40% of score comes from the final version of the term paper.
+---
 ## Grading
 ### Appropriacy and Grasp of Research Area (10 pts.)
 - Mastery of concepts in field of research 
@@ -30,7 +31,7 @@ image:
 - Formatting standards per MLA/APA
 - Citation format
 ---
-***Friendly reminder: Remember to rehearse your presentation!***
+## Remember to proofread your paper!
 
         Don’t be like this at the end of the semester!
 

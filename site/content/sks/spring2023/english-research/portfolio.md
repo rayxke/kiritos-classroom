@@ -7,8 +7,9 @@ image:
 ---
 ---
 ## Instructions
-- Due 5/14
-- You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 
+- You must prepare a research portfolio
+- Summarize and critique full text of articles, encyclopedia entries and other acceptable accademic sources.
+- Use the [APA Portfolio Template](https://docs.google.com/document/d/1Sm-WBq_hOoY72JHembDFX6ZUISS6tdnB/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true) or the [MLA Portfolio Template](https://docs.google.com/file/d/1SvEDCpn1UEF_uVpsqU2bg34i67VC7ABL/edit?usp=docslist_api&filetype=msword)
 - 30% of total score comes from this portfolio.
 
 ---
@@ -27,7 +28,8 @@ image:
 - Citation format proper 
 ---
 
-## ***Don’t be this student at the end of the semester!***       
+## Remember to proofread your portfolio
+        Don’t be this student at the end of the semester!       
 
 Me: But Teacher I submitted my portfolio why is my grade so low?
 

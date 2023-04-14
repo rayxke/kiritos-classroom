@@ -14,7 +14,7 @@ image:
 ## Rubric (10 pts.)
 ### Technical Presentation Elements (2pts.)
 - Design elements
-- Meets file size requirements
+- Meets file size requirements (< 50MB)
 ### Quality of Source Graphics (2pts.)
 - Graphics are relevant
 - Charts and diagrams are explained well and fit.
