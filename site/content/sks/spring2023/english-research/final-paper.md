@@ -27,7 +27,7 @@ image:
 - Subject-verb agreement
 - Standard word forms
 - Punctuation, spelling, and capitalization
-- Formatting standards per MLA
+- Formatting standards per MLA/APA
 - Citation format
 ---
 ***Friendly reminder: Remember to rehearse your presentation!***
@@ -36,5 +36,5 @@ image:
 
 Me: But Teacher I submitted why is my grade so low?
 
-Teacher: Was your research paper 800-1000 words? Did it conform to MLA standards? Were there sufficient references from reliable sources? (Not just Naver and Google)
+Teacher: Was your research paper 800-1000 words? Did it conform to MLA/APA standards? Were there sufficient references from reliable sources? (Not just Naver and Google)
 

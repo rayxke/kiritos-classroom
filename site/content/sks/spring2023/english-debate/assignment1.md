@@ -12,7 +12,7 @@ image:
 ---
 ## Instructions
 1. This assignment has **two parts**. An Oral and Written Part. Please make sure to submit both!
-2. Please submit a written draft of the argumentative position paper. It should be 800-1000 words. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
+2. Please submit a written draft of the argumentative position paper. It should be 800-1000 words. Times New Roman, 12pt. font and double spaced. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
 3. A rehearsed, PPT presentation with audio-recorded two minute position and rebuttal statement.
 4. Due 4/7
 5. All files should be named "StudentNumber_Name_Draft.xxx"
@@ -46,8 +46,10 @@ image:
 - PPT (5 pts.)
     - Expert implementation of the following:
         - Graphics
-        - Subtitles
     - Sufficiently satisfies time requirement
+## Tips
+- Feel free to use [this template](https://docs.google.com/file/d/1di2V9djiRMRMan4UkpzHD2FdqD2JjJVY/edit?usp=docslist_api&filetype=msword) to write your paper.
+- Feel free to reference this [PPT about how to make a PPT](https://docs.google.com/file/d/16lld-MqUFGwF65-f_FdCuuZ9fWAM1CRG/edit?usp=docslist_api&filetype=mspresentation)
 ---
 ***Friendly reminder!***
 

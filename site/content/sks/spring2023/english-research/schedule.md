@@ -17,7 +17,8 @@ description: >-
 |  6 |  4/3-4/7             | Annotated Bibliography, MLA & APA Referencing |    [Homework 4 Due](https://forms.microsoft.com/r/9K9Y5S1y10)       |
 | | | |  [Homework 5 Due](sks/spring2023/english-research/homework5)       |
 |  7 |  4/10-4/14           | Thesis Writing and Drafting  | [Homework 6 Due](sks/spring2023/english-research/homework6)             |
-|  8 |  4/17-4/21           | Error Correction | [Homework 7 Due](sks/spring2023/english-research/homework7)      |
+| | | |  [Homework 7 Due](sks/spring2023/english-research/homework7)       |
+|  8 |  4/17-4/21           | Error Correction |       |
 |  9 |  4/24-4/28           | Peer Review, Revising & Editing |[Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b) |
 | 10 |  5/1-5/5             | Presentations  | [Final Project Due](sks/spring2023/english-research/final)      |
 | 11 |  5/8-5/12            | Review  | |

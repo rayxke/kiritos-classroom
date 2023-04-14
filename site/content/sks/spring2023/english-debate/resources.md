@@ -27,6 +27,8 @@ Quality of Arguments [Tencent Drive](https://share.weiyun.com/HeM7eQd8) | [Googl
 
 Logical Fallacies [Tencent Drive](https://share.weiyun.com/qXMDHFDg) | [Google Drive](https://docs.google.com/presentation/d/16lq9Kv3zf70SUn6tyGKKsRiuWUhkki5a/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
 
+[How to Make an Effective PPT](https://docs.google.com/file/d/16lld-MqUFGwF65-f_FdCuuZ9fWAM1CRG/edit?usp=docslist_api&filetype=mspresentation) by Victor Chen
+
 ## Helpful Links
 
 [Example Outline For Argument Paper](https://depts.washington.edu/leadta/hist_ta_web/resources/practice/writing/argumentative_writing_out_unk.pdf)
@@ -36,6 +38,8 @@ Logical Fallacies [Tencent Drive](https://share.weiyun.com/qXMDHFDg) | [Google D
 [Lincoln Douglass Debate Format](sks/spring2023/english-debate/ld-debate)
 
 [List of Logical Fallacies](https://web.cn.edu/kwheeler/fallacies_list.html)
+
+[MLA Essay Template](https://docs.google.com/file/d/1di2V9djiRMRMan4UkpzHD2FdqD2JjJVY/edit?usp=docslist_api&filetype=msword)
 
 Fill out [this survey](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for 5 extra points to your grade!
 

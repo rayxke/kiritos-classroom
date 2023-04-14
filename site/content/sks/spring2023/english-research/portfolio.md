@@ -7,7 +7,9 @@ image:
 ---
 ---
 ## Instructions
-You must prepare a research portfolio. Full text of articles, encyclopedia entries and other acceptable academic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. The portfolio should include 10-15 sources of which at least 6 must be peer reviewed. 30% of total score comes from this portfolio.
+- Due 5/14
+- You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 
+- 30% of total score comes from this portfolio.
 
 ---
 ## Rubric (30 pts.)
@@ -21,7 +23,7 @@ You must prepare a research portfolio. Full text of articles, encyclopedia entri
 - Attempts are made to define technical words 
 ### Format and Conventions (10 pts.)
 - Punctuation, spelling, and capitalization
-- Formatting standards per MLA or APA
+- Formatting standards per MLA/APA
 - Citation format proper 
 ---
 
