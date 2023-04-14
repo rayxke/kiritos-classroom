@@ -2,24 +2,13 @@
 title: Final Paper
 layout: assignment-turnin
 description: >-
-text: >
-    Submit Final Paper
-link: 
-    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/EkyfnMTDqfROqbipr-Iyfn0B5bv1fDfMwZoYLu9DCwwqsw
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-- Due 5/5
-- The document should be named "TeacherName_StudentNumber_Name_FinalPaper.docx"
-- Example "Bobby_120155_Kirito_FinalPaper.docx"
-- Example "Damon_120155_Kirito_FinalPaper.docx"
-- Example "Jon_120155_Kirito_FinalPaper.docx"
-- Example "Kevin_120155_Kirito_FinalPaper.docx"
-- Files not properly named **may receive a zero** for this assignment (and a BIG frownie face)
-- You will be expected to produce a fully reference review of literature (research report) that shall be 800 words or more in length and conform to all MLA standards. 
-- Example papers will be given in class time. Multiple drafts and preparation will be involved in this extensive process as you gather source material. 
+-You will prepare a research report that shall be 800 words or more in length and conform to all MLA/APA standards. 
+- Use the templates!  
 - 40% of score comes from the final version of the term paper.
 ## Grading
 ### Appropriacy and Grasp of Research Area (10 pts.)

@@ -2,24 +2,12 @@
 title: Research Portfolio
 layout: assignment-turnin
 description: >-
-text: >
-    Submit Research Portfolio
-link: 
-    https://gtvault-my.sharepoint.com/:f:/g/personal/kmobley8_gatech_edu/Er79mQZvuodJpzXRfWCY1KgBo9o_8OMafJpqqGQunLXdGQ
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-- Due 5/5
-- You must prepare a research portfolio. Find a binder and organize material effectively. Full text of articles, encyclopedia entries and other acceptable accademic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. 
-- 30% of total score comes from this portfolio.
-- The document should be named "TeacherName_StudentNumber_Name_Portfolio.docx"
-- Example "Bobby_120155_Kirito_Portfolio.docx"
-- Example "Damon_120155_Kirito_Portfolio.docx"
-- Example "Jon_120155_Kirito_Portfolio.docx"
-- Example "Kevin_120155_Kirito_Portfolio.docx"
-- Files not properly named **may receive a zero** for this assignment (and a BIG frownie face)
+You must prepare a research portfolio. Full text of articles, encyclopedia entries and other acceptable academic sources will be categorized, summarized and critiqued in this highly structured portfolio you will work on all semester. The portfolio should include 10-15 sources of which at least 6 must be peer reviewed. 30% of total score comes from this portfolio.
 
 ---
 ## Rubric (30 pts.)
