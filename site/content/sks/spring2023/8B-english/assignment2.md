@@ -32,6 +32,8 @@ The first written assignment is a short essay.
 - Ideas & Organization **(10 pts.)**
     - How well do your researched points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
+    - Introduction paragraph should have a hook and thesis statement.
+    - Conclusion should have a concluding sentence and restate the thesis.
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
     - Proper use of idiomatic expressions
