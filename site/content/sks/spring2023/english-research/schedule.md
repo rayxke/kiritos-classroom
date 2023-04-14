@@ -18,11 +18,11 @@ description: >-
 | | | |  [Homework 5 Due](sks/spring2023/english-research/homework5)       |
 |  7 |  4/10-4/14           | Thesis Writing and Drafting  | [Homework 6 Due](sks/spring2023/english-research/homework6)             |
 | | | |  [Homework 7 Due](sks/spring2023/english-research/homework7)       |
-|  8 |  4/17-4/21           | Error Correction |       |
-|  9 |  4/24-4/28           | Peer Review, Revising & Editing |[Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b) |
-| 10 |  5/1-5/5             | Presentations  | [Final Project Due](sks/spring2023/english-research/final)      |
-| 11 |  5/8-5/12            | Review  | |
-| 12 |  5/15-5/19           | Review  |   
+|  8 |  4/17-4/21           | MidTerms |       |
+|  9 |  4/24-4/28           | MidTerms | |
+| 10 |  5/1-5/5             | Review  |       |
+| 11 |  5/8-5/12            | Review  | [Homework 8 Due](https://forms.microsoft.com/r/fMKW1JzB1b)|
+| 12 |  5/15-5/19           | Review  | [Final Project Due](sks/spring2023/english-research/final)|  
 | 13 |  5/22-5/26           | Self-Study  | |
 | 14 |  5/29-6/2            | Final Exams  |    |
 {{</table>}}
