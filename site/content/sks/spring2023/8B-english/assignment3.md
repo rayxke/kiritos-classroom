@@ -47,7 +47,7 @@ Choose THREE of the following questions:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 5/14 AND bring it to class on a USB
+	* Submit on 5/21 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?

@@ -8,6 +8,8 @@ image:
 ---
 ## Instructions
 - You must prepare a short presentation about your research.
+- The PPT **MUST** include an audio narration!
+- PPT without audio narration will receive a 0!
 - 10% of your score comes from this presentation.
 
 ---

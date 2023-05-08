@@ -13,7 +13,7 @@ image:
 ## Instructions
 - Due 2023/05/07
 - This assigment has **two parts**. An Oral and Written Part. Submit your PPT and Final Paper.
-- The paper should be named "StudentNumber_Name.docx"
+- The paper should be named "StudentNumber_Name_Final.docx"
 - Example 120155_Kirito_Final.docx
 - PPT should be named Topic_Positon_Final.pptx
 - Example Pikachu_Affirmative_Final.pptx

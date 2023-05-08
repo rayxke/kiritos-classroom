@@ -21,7 +21,7 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 5/15 AND bring it to class on a USB
+	* Submit on 5/21 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 	* When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
 		* Example "7C1_70155_Keary.pptx"
