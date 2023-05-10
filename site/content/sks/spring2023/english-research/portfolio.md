@@ -18,7 +18,7 @@ image:
 - Portfolio includes primary source research articles from journals. 
 - Wikipedia and search engines excluded. No baidu! No Naver! 
 - Experts are selected 
-- Breadth and depth of material is appropriate. 
+- Breadth (minimum of 10 total sources) and depth (at least 5 of the 10 sources must be peer-reviewed academic sources) of material is appropriate. 
 ### Summarization and Paraphrasing (10 pts.)
 - Annotated bibliography collection includes quality summaries in the student’s own words that demonstrates comprehension. 
 - Attempts are made to define technical words 
@@ -33,5 +33,5 @@ image:
 
 Me: But Teacher I submitted my portfolio why is my grade so low?
 
-Teacher: Did you submit a *complete* research portfolio with references and proper summarization? Were citations in the format specified by your teacher? Was it submitted on time?
+Teacher: Did you submit a *complete* research portfolio with 10 references and proper summarization? Were citations in the format specified by your teacher? Was it submitted on time?
 

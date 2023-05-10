@@ -18,6 +18,7 @@ image:
 ### Quality of Evidence And Research (10 pts.)
 - Source material supports arguments 
 - Integration and paraphrase of source material
+- At least 10 sources of which 5 are peer-reviewed academic articles
 ### Style (10 pts.)
 - Sentence variety
 - Word choice
