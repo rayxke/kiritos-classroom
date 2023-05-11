@@ -29,6 +29,7 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 	* Did you follow the guidelines we discussed in class?
 	* Appropriate visual aid in powerpoint
 * Ideas & Organization (5 pts.)
+	* Submit an Outline
     * Does the presentation follow a logical order?
     * Is it Interesting?
 * Pronunciation (5 pts.)
