@@ -1,15 +1,15 @@
 ---
-title: Assignment 2
+title: Essay I
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 2 (8B1)
+    Submit Essay I (8B1)
 fenbie:
-    Submit Assignment 2 (8B2)
+    Submit Essay I (8B2)
 link: 
-    https://inbox.weiyun.com/EuBiYUE7
+    https://inbox.weiyun.com/WbFY4PkD
 link2:
-    https://inbox.weiyun.com/K6PpTr7X
+    https://inbox.weiyun.com/OxQx43qo
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -25,7 +25,7 @@ The first written assignment is a short essay.
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 9/25
+    - Submit on 9/24
     - Penalty for late submissions!
 - Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.

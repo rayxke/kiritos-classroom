@@ -5,9 +5,9 @@ description: >-
 text: >
     Submit Speaking I (7C1)
 link: 
-    https://inbox.weiyun.com/ZBfEB0NN
+    https://inbox.weiyun.com/l2cDSzca
 fenbie: Submit Speaking I (7C2)
-link2: https://inbox.weiyun.com/whNyhaGC
+link2: https://inbox.weiyun.com/Fdrtepyc
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -25,7 +25,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on **9/11** AND bring it to class on a USB
+	* Submit on **9/10** AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
     * When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
 		* Example "7C1_70155_Keary.pptx"

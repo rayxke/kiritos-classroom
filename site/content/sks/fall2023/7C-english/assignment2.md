@@ -5,11 +5,11 @@ description: >-
 text: >
     Submit Essay I (7C1)
 link: 
-    https://inbox.weiyun.com/sijQpA1Q
+    https://inbox.weiyun.com/b6riigz1
 image: 
     /img/surprised-pikachu.jpeg
 fenbie: Submit Essay I (7C2)
-link2: https://inbox.weiyun.com/ToGuXi7O
+link2: https://inbox.weiyun.com/ZMaQ9cLa
 ---
 ---
 ## Instructions
@@ -26,7 +26,7 @@ link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 9/25
+    - Submit on 9/24
     - Penalty for late submissions! 
 	- When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
     	- Example 7C1_70155_Keary.docx

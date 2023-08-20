@@ -1,15 +1,15 @@
 ---
-title: Assignment 3
+title: Speaking II
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 3 (8B1)
+    Submit Speaking II (8B1)
 link: 
-    https://inbox.weiyun.com/xTNhz8ce
+    https://inbox.weiyun.com/b6viHnXi
 fenbie:
-    Submit Assignment 3 (8B2)
+    Submit Speaking II (8B2)
 link2:
-    https://inbox.weiyun.com/S198zSOq
+    https://inbox.weiyun.com/RBlC5KtT
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -25,7 +25,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 5/21 AND bring it to class on a USB
+	* Submit on 11/5 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?
