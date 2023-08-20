@@ -20,12 +20,12 @@ description: >-
 | 10 |  10/23-10/27         | Unit 9  | Presentation Outline|
 | 11 |  10/30-11/3          | Unit 9  | Presentation Practice|
 | 12 |  11/6-11/10          | Unit 9  | [Speaking II](sks/fall2023/7C-english/assignment3)|
-| 13 |  11/13-11/17         | Unit 10  | |
+| 13 |  11/13-11/17         | Unit 10 |             |
 | 14 |  11/20-11/24         | Unit 10 |             |
-| 15 |  11/27-12/1          | Unit 10 |  Essay II|
+| 15 |  11/27-12/1          | Unit 10 |  Essay II   |
 | 16 |  12/4-12/8           | Unit 10 |             |
-| 17 |  12/11-12/15         | Self Study|            |
-| 18 |  12/18-12/22         | Final Exams |              |
+| 17 |  12/11-12/15         | Self Study|           |
+| 18 |  12/18-12/22         | Final Exams|          |
 | 19 |  12/25-12/29         | Review |              |
 | 20 |  1/1-1/5             | Review |      |
 | 21 |  1/8-1/10            | Review |Winter Break Begins. Go home!|

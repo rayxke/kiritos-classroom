@@ -10,17 +10,17 @@ intro:
     - image: /img/syllabus.svg
       text: >
         Syllabus
-      link: sks/spring2023/8B-english/syllabus
+      link: sks/fall2023/8B-english/syllabus
     - image: /img/pencil.svg
       text: >
         Assignments
-      link: sks/spring2023/8B-english/assignments
+      link: sks/fall2023/8B-english/assignments
     - image: /img/calendar.svg
       text: >
         Schedule
-      link: sks/spring2023/8B-english/schedule
+      link: sks/fall2023/8B-english/schedule
     - image: /img/books.svg
       text: >
         Resources
-      link: sks/spring2023/8B-english/resources
+      link: sks/fall2023/8B-english/resources
 ---

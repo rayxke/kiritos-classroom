@@ -17,7 +17,7 @@ image:
 
 ## Instructions
 The first written assignment is a short essay.
-1. Write about a time when you felt a special connection to nature.
+1. Write about a time when your curiosity led you to learn or try something new.
 2. The essay should be **at least three paragraphs** Intro, Body, and Conclusion (**300-400 words**).
 3. When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
     * Example 8B1_80155_Keary.docx
@@ -25,7 +25,7 @@ The first written assignment is a short essay.
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 4/14
+    - Submit on 9/25
     - Penalty for late submissions!
 - Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.

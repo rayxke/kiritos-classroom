@@ -13,7 +13,7 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ---
 ## Instructions
-* Prepare a presentation about how we can affect the environment in a positive way.
+* Prepare a presentation about how we can stay safe in a dangerous situation (i.e. fire, tornado, tsunami).
 * Should be *3-5 minutes*.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
@@ -21,7 +21,7 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 5/21 AND bring it to class on a USB
+	* Submit on 11/6 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 	* When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
 		* Example "7C1_70155_Keary.pptx"

@@ -15,7 +15,10 @@ image:
 ---
 ---
 ## Instructions
-* Prepare a presentation about tips for helping the environment. Review the ideas in Parts 1 and 2 and the listening and speaking skills as you prepare your presentation.
+* Tell a story of a time when giving or receiving gratitude affected you or someone you know.
+	* Make sure it relates to your topic/supports your message
+	* It is interesting
+	* Is easy to follow
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
@@ -23,7 +26,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 3/27 AND **bring it to class on a USB**
+	* Submit on 9/11 AND **bring it to class on a USB**
     * LATE Submission has a Penalty (-1 Point for each day late)
 * Powerpoint (5 pts.)
 	* Did you follow the guidelines we discussed in class?

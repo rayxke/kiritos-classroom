@@ -14,10 +14,10 @@ image:
 ---
 ## Instructions
 
-* Choose a city and describe it 
-    * Why people like to live in this city?
-    * How many people live there?
-    * What are some historical elements of the city?
+* Prepare a presentation about the sport that has been assigned to you
+    * Introduce how to play the sport
+    * Introduce at least one athlete in the sport (For example Basketball has Lebron James)
+    * Introduce one major competiton in the sport (For example Soccer has the World Cup)
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
@@ -25,7 +25,7 @@ image:
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 3/27 AND bring it to class on a USB
+	* Submit on **9/11** AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
     * When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
 		* Example "7C1_70155_Keary.pptx"

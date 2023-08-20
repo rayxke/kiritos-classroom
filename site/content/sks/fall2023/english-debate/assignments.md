@@ -8,14 +8,14 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         Outline
-      link: sks/spring2023/english-debate/outline
+      link: sks/fall2023/english-debate/outline
     - image: /img/illustrations-meeting-space.svg
       text: >
         Draft
-      link: sks/spring2023/english-debate/assignment1
+      link: sks/fall2023/english-debate/assignment1
     - image: /img/illustrations-meeting-space.svg
       text: >
         Final
       disabled:
-      link: sks/spring2023/english-debate/assignment2
+      link: sks/fall2023/english-debate/assignment2
 ---

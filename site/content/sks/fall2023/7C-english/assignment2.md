@@ -13,19 +13,12 @@ link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ---
 ## Instructions
-#### 1. Think about a time when you felt one of the following emotions.
-* Happiness
-* Fear
-* Surprise
-* Sadness
-* Anger
-* Disgust 
-#### 2. Describe it 
-* What happened?
-* How did you feel?
-* What did you do?
+* How would you improve the transportation in your city? 
+    * Describe the form of transportation.
+    * What are some positive aspects of the transportation?
+    * What are some negative aspects?
 * What did you learn from the experience?
-#### 3. The essay should be **at least three paragraphs** (**300-400 words**)
+### 3. The essay should be **at least three paragraphs** (**300-400 words**)
 * Intro
 * Body
 * Conclusion
@@ -33,7 +26,7 @@ link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 4/14
+    - Submit on 9/25
     - Penalty for late submissions! 
 	- When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
     	- Example 7C1_70155_Keary.docx

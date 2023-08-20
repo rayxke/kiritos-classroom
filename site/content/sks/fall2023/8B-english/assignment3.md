@@ -16,34 +16,12 @@ image:
 ---
 
 ## Instructions
-* Prepare a presentation introducing three ecofriendly methods of transportation.
+* Prepare a presentation describing a building or public space that makes a city or town more liveable.
 * The presentation should be 3-5 minutes.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
 * It should contain visual aids and short prompts to remind you of what to talk about.
----
-## Methods
-Choose THREE of the following questions:
-- abra
-- car or bike sharing
-- city cars, e.g., Smart car ELF vehicle
-- ferry
-- flying bike
-- golf cart
-- hoverboard
-- jet pack 
-- Maglev train 
-- SCaRaB 
-- scooter 
-- Segway 
-- self-driving car
-- Shweeb system 
-- Skytrain
-- sled
-- unicycle 
-- Velomobile 
-- zipline
-- other: (Your choice)
+
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
