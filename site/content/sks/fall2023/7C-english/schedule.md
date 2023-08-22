@@ -8,12 +8,12 @@ description: >-
 {{<table "mw8 center dt--fixed">}}
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
-|  1 |  8/21-8/25           | Intro and Unit 7 |  Speaking I Outline        |
-|  2 |  8/28-9/1            | Unit 7  | Speaking I Practice          |
-|  3 |  9/4-9/8             | Unit 7  | Essay I Outline         |
-|  4 |  9/11-9/15           | Unit 8  | [Speaking I](sks/fall2023/7C-english/assignment1/)         |
-|  5 |  9/18-9/22           | Unit 8  | Essay I Rough Draft         |
-|  6 |  9/25-9/29           | Unit 8  |[Essay I](sks/fall2023/7C-english/assignment2/)              |
+|  1 |  8/21-8/25           | Intro and Unit 7 |  Essay I Outline        |
+|  2 |  8/28-9/1            | Unit 7  | Essay I Rough Draft|
+|  3 |  9/4-9/8             | Unit 7  | Speaking I Outline         |
+|  4 |  9/11-9/15           | Unit 8  | [Essay I](sks/fall2023/7C-english/assignment1/)         |
+|  5 |  9/18-9/22           | Unit 8  | Speaking I  Practice |
+|  6 |  9/25-9/29           | Unit 8  |[Speaking I](sks/fall2023/7C-english/assignment2/)              |
 |  7 |  10/2-10/6           | Golden Week No School |       |
 |  8 |  10/9-10/13          | Self Study|          |
 |  9 |  10/16-10/20         | Midterm Exams  |       |
