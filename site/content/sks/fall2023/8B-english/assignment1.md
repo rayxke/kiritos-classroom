@@ -32,9 +32,8 @@ image:
 	* Did you follow the guidelines we discussed in class?
 	* Appropriate visual aid in powerpoint
 * Ideas & Organization (5 pts.)
-    * Does the presentation follow a logical order?
-    * Is it Interesting?
-	* Did you make an outline for your PPT
+    * Outline (2 pts.)
+	* Rough Draft (3 pts.)
 * Pronunciation (5 pts.)
 	* If it effects my understanding I will lower your grade.
 	* Look up the words you will use before presenting!

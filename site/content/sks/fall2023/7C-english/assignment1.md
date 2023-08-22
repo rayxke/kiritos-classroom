@@ -32,11 +32,13 @@ link2: https://inbox.weiyun.com/ZMaQ9cLa
     	- Example 7C1_70155_Keary.docx
 - Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.
-- Ideas & Organization **(10 pts.)**
+- Ideas & Organization **(5 pts.)**
     - How well do your researched points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
     - Introduction paragraph should have a hook and thesis statement.
     - Conclusion should have a concluding sentence and restate the thesis.
+- Outline **(2 pts.)**
+- Rough Draft **(3 pts.)**
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
     - Proper use of idiomatic expressions
