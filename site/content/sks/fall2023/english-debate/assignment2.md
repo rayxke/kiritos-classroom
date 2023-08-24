@@ -5,39 +5,42 @@ description: >-
 text: >
     Submit Final Assignment
 link: 
-    https://inbox.weiyun.com/775SVcDN
+    https://inbox.weiyun.com/vNKM39PL
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-- Due 2023/05/07
-- This assigment has **two parts**. An Oral and Written Part. Submit your PPT and Final Paper.
-- The paper should be named "StudentNumber_Name_Final.docx"
-- Example 120155_Kirito_Final.docx
-- PPT should be named Topic_Positon_Final.pptx
-- Example Pikachu_Affirmative_Final.pptx
-- Please include names and student numbers in the PPT
-### Lincoln Douglass Debate
-- Please read the instructions for the [Lincoln Douglass Debate](sks/spring2023/english-debate/ld-debate) carefully.
-
+- Due 2023/12/1
+- This assignment consists of *two deliverables*. 
+    - One **group video** 
+    - One **individual paper**.
+### Video
+- In a group of four students, create a 10-minute informative newsbroadcast about a topic of your choice. 
+- The newsbroadcast should include the roles of anchorperson, scientist, expert, interviewer, interviewee. 
+- The anchor should provide closing argument after the main content. 
+- Please include all group member names in the video.
 ### Paper
-- Please submit a final draft of the argumentative position paper. It should be 800-1000 words. It should follow a standard structure and include one of the appeals discussed in class (Pathos, Logos, Ethos)
+- Each individual in the group should submit the final draft of their argument paper (500 words or more)
+- The paper should take a clear position about the topic.
+- Follow proper conventions for writing a paper.
 ---
 ## Rubric (40 pts.)
-### Lincoln Douglass Debate (20 pts.)
+### Video (20 pts.)
 - Argumentation (5 pts.)
     - Arguments are coherent and lacking in fallacies
     - Evidence ties to position well
-- Rebuttal (5 pts.)
-    - Well thought out consideration of oppositions arguments
-    - Rebuttal clearly addressed oppositions arguments
 - Quality of Research (5 pts.)
     - Background info is well researched from reliable sources
     - Naver, Wiki, Search Engines (Google, Bing, etc.) are NOT reliable sources
-- Language (5 pts.)
-    - Effective use of debate rhetoric
-    - Appropriate and clear language
+- Technical Skills (5 pts.)
+    - Expert implementation of the following:
+        - Editing
+        - Graphics
+        - Subtitles
+    - Sufficiently satisfies time requirement
+- Contribution and Participation (5 pts.)
+    - Did you actively participate?
 ### Paper (20 pts.)
 - Argumentation (5 pts.)
     - Cogent logical arguments presented in writing
@@ -53,13 +56,16 @@ image:
     - Grammar
 - Research and Evidence (5 pts.)
     - Research material is diverse, well summarized
-    - 6 or more quality academic source articles
+    - 3 or more quality academic source articles
 ---
-***Prepare Well!***
+
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Keary I submitted why is my grade so low?
 
-Keary: Did you submit the final draft of your paper? Were all deliverables submitted on time? Was the paper well researched with sufficient sources? Did you have a meaningful part in the Lincoln Douglass Debate?
+Keary: Did you submit an *individual* paper along with your group video? Were all deliverables submitted on time? Was the paper well researched with sufficient sources? Did the group video resemble an informative broadcast with proper editing and group particpation?
+
+
 

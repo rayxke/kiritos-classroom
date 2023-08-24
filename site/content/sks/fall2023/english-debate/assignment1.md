@@ -5,16 +5,16 @@ description: >-
 text: >
     Submit Draft
 link: 
-    https://inbox.weiyun.com/YDnnoQOD
+    https://inbox.weiyun.com/GiQCxdby
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
 1. This assignment has **two parts**. An Oral and Written Part. Please make sure to submit both!
-2. Please submit a written draft of the argumentative position paper. It should be 800-1000 words. Times New Roman, 12pt. font and double spaced. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
-3. A rehearsed, PPT presentation with audio-recorded two minute position and rebuttal statement.
-4. Due 4/7
+2. Please submit a written draft of the argumentative position paper. It should be 500 or more words. Times New Roman, 12pt. font and double spaced. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
+3. A rehearsed, PPT presentation with audio surveying for and against arguments of your topic.
+4. Due 9/25
 5. All files should be named "StudentNumber_Name_Draft.xxx"
     - PPT Example "120155_Kirito_Draft.pptx"
     - Doc Example "120155_Kirito_Draft.docx"
@@ -35,7 +35,7 @@ image:
     - Grammar
 - Research and Evidence (5 pts.)
     - Research material is diverse, well summarized
-    - 6 or more quality academic source articles
+    - 3 or more quality academic source articles
 ### Oral (20 pts.)
 - Argumentation (10 pts.)
     - Arguments are coherent and lacking in fallacies
