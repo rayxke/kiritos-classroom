@@ -17,7 +17,6 @@ link2: https://inbox.weiyun.com/ZMaQ9cLa
     * Describe the form of transportation.
     * What are some positive aspects of the transportation?
     * What are some negative aspects?
-* What did you learn from the experience?
 ### 3. The essay should be **at least three paragraphs** (**300-400 words**)
 * Intro
 * Body

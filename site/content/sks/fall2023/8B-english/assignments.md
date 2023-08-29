@@ -5,6 +5,11 @@ description: >-
   The following links contain assignment descriptions.
 intro:
   blurbs:
+   - image: /img/illustrations-coffee.svg
+      text: >
+        Speaking 1 Rough Draft
+      link: sks/fall2023/8B-english/roughdraft/
+      disabled:
     - image: /img/illustrations-coffee.svg
       text: >
         Assignment 1

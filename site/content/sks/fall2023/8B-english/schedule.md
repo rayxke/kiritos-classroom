@@ -9,7 +9,7 @@ description: >-
 | Week  |          Dates          |                 Content                  |             Homework      |             
 |:---:|    :------------------:|             :-----------------------------:| :-------------------------:|
 |  1 |  8/21-8/25           | Intro and Unit 7 |Speaking I Outline|
-|  2 |  8/28-9/1            | Unit 7  |Speaking I Practice|
+|  2 |  8/28-9/1            | Unit 7  |[Speaking I Practice](sks/fall2023/8B-english/roughdraft/)|
 |  3 |  9/4-9/8             | Unit 7  |Essay I Outline |
 |  4 |  9/11-9/15           | Unit 8  | [Speaking I](sks/fall2023/8B-english/assignment1/)         |
 |  5 |  9/18-9/22           | Unit 8  |Essay I Rough Draft|
