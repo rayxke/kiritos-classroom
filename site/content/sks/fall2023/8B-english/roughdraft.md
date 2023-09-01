@@ -19,7 +19,9 @@ image:
 	* Make sure it relates to your topic/supports your message
 	* It is interesting
 	* Is easy to follow
-* This should be an audio recording practice of your presentation. However you may also submit a PPT with audio recording. 
+* This should be an audio recording practice of your presentation. However you may also submit a PPT with audio recording.
+* Name the audio file "StudentNumber_Name_RoughDraft.XXX"
+    * Example "80155_Kirito_RoughtDraft.mp3"
 
 ---
 ## Grading (3 pts.)
