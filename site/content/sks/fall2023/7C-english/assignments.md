@@ -12,6 +12,11 @@ intro:
       disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
+        Speaking I Rough Draft
+      link: sks/fall2023/7C-english/roughdraft1/
+      disabled:
+    - image: /img/illustrations-coffee-gear.svg
+      text: >
         Assignment 2
       link: sks/fall2023/7C-english/assignment2/
       disabled:
