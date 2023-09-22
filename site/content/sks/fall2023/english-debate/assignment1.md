@@ -14,7 +14,7 @@ image:
 1. This assignment has **two parts**. An Oral and Written Part. Please make sure to submit both!
 2. Please submit a written draft of the argumentative position paper. It should be 500 or more words. Times New Roman, 12pt. font and double spaced. It should follow a standard structure and include one (or more) of the appeals discussed in class (Pathos, Logos, Ethos)
 3. A rehearsed, PPT presentation with audio surveying for and against arguments of your topic.
-4. Due 9/28
+4. Due 9/25
 5. All files should be named "StudentNumber_Name_Draft.xxx"
     - PPT Example "120155_Kirito_Draft.pptx"
     - Doc Example "120155_Kirito_Draft.docx"
