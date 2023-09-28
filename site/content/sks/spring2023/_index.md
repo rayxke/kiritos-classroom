@@ -10,17 +10,17 @@ intro:
     - image:
       text: >
         7C English
-      link: spring2023/7C-english
+      link: sks/spring2023/7C-english
     - image:
       text: >
         8B English
-      link: spring2023/8B-english
+      link: sks/spring2023/8B-english
     - image:
       text: >
         English Research
-      link: spring2023/english-research
+      link: sks/spring2023/english-research
     - image:
       text: >
         English Debate
-      link: spring2023/english-debate   
+      link: sks/spring2023/english-debate   
 ---
