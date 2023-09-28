@@ -1,6 +1,6 @@
 ---
 title: Spring 2023
-type: Archive
+layout: grade
 image: /img/detective-pikachu-dance.gif
 heading: Spring 2023 Archive
 description: >-

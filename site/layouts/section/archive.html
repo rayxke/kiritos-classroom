@@ -12,24 +12,27 @@
         </a> 
       </div>   
       {{end}}
-      {{ end }}
+{{ end }}
 
 
 {{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+  <div class="mw7 center">
+    <div class="mw6 ph3 mb3">
+      <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+      <p>{{ .description }}</p>
+    </div>
   </div>
-</div>
 
-<!-- Image grid -->
-{{ partial "image-grid" . }}
+  <!-- Image grid -->
+  {{ partial "image-grid" . }}
 {{ end }}
 
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<div class="mw7 center">
+  <p>{{ .Params.description }}</p>
+  {{ .Content }}
+</div>
 
-{{ partial "table" .Params.pricing }}
 
 {{ end }}
