@@ -3,9 +3,9 @@ title: Essay Corrections
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Speaking I (8B1)
+    Submit Essay I Correction (8B1)
 fenbie:
-    Submit Speaking I (8B2)
+    Submit Essay I Correction (8B2)
 link: 
     https://inbox.weiyun.com/hyBsZyS3
 link2:
