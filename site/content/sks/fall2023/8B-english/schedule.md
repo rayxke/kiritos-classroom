@@ -19,6 +19,7 @@ description: >-
 |  9 |  10/16-10/20         | Midterm Exams  |       |
 | 10 |  10/23-10/27         | Unit 9  | Speaking II Outline |
 | 11 |  10/30-11/3          | Unit 9  |  Speaking II Practice|
+|    |                      |         |  [Essay I Corrections](sks/fall2023/8B-english/essay-corrections)|
 | 12 |  11/6-11/10          | Unit 9  | [Speaking II](sks/fall2023/8B-english/assignment3)|
 | 13 |  11/13-11/17         | Unit 9  | |
 | 14 |  11/20-11/24         | Unit 9 | Practice Essay |

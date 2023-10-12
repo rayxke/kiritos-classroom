@@ -20,6 +20,11 @@ intro:
         Assignment 2
       link: sks/fall2023/8B-english/assignment2/
       disabled:
+    - image: /img/illustrations-coffee-gear.svg
+      text: >
+        Essay Corrections
+      link: sks/fall2023/8B-english/essay-corrections/
+      disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
         Assignment 3
