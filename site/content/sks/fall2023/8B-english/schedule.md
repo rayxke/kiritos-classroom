@@ -17,13 +17,13 @@ description: >-
 |  7 |  10/2-10/6           | Golden Week No School |       |
 |  8 |  10/9-10/13          | Self Study|          |
 |  9 |  10/16-10/20         | Midterm Exams  |       |
-| 10 |  10/23-10/27         | Unit 9  | Speaking II Outline |
-| 11 |  10/30-11/3          | Unit 9  |  Speaking II Practice|
+| 10 |  10/23-10/27         | Unit 9  |  |
+| 11 |  10/30-11/3          | Unit 9  | |
 |    |                      |         |  [Essay I Corrections](sks/fall2023/8B-english/essay-corrections)|
-| 12 |  11/6-11/10          | Unit 9  | |
+| 12 |  11/6-11/10          | Unit 9  |Speaking II Outline |
 | 13 |  11/13-11/17         | Unit 9  |[Speaking II Rough Draft](sks/fall2023/8B-english/roughdraft2) |
 | 14 |  11/20-11/24         | Unit 9 | [Speaking II](sks/fall2023/8B-english/assignment3) |
-| 15 |  11/27-12/1          | Unit 9 | Assignment 4|
+| 15 |  11/27-12/1          | Unit 9 | Essay II|
 | 16 |  12/4-12/8           | Unit 9 |             |
 | 17 |  12/11-12/15         | Self Study|            |
 | 18 |  12/18-12/22         | Final Exams |              |

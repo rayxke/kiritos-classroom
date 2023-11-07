@@ -17,10 +17,10 @@ description: >-
 |  7 |  10/2-10/6           | Golden Week No School |       |
 |  8 |  10/9-10/13          | Self Study|          |
 |  9 |  10/16-10/20         | Midterm Exams  |       |
-| 10 |  10/23-10/27         | Unit 9  | Speaking II Outline|
-| 11 |  10/30-11/3          | Unit 9  | Speaking II Practice|
-| 12 |  11/6-11/10          | Unit 9  | |
-| 13 |  11/13-11/17         | Unit 10 |[Speaking II Rough Draft](sks/fall2023/7C-english/roughdraft2)             |
+| 10 |  10/23-10/27         | Unit 9  | |
+| 11 |  10/30-11/3          | Unit 9  | |
+| 12 |  11/6-11/10          | Unit 9  |Speaking II Outline|
+| 13 |  11/13-11/17         | Unit 10 |[Rough Draft II](sks/fall2023/7C-english/roughdraft2)             |
 | 14 |  11/20-11/24         | Unit 10 |[Speaking II](sks/fall2023/7C-english/assignment3)|
 | 15 |  11/27-12/1          | Unit 10 |  Essay II   |
 | 16 |  12/4-12/8           | Unit 10 |             |

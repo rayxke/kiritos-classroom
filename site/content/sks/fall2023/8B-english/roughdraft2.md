@@ -15,6 +15,7 @@ image:
 ---
 ---
 ## Instructions
+* Due 11/14
 * Prepare a presentation describing a building or public space that makes a city or town more liveable.
 	* Make sure it relates to your topic/supports your message
 	* It is interesting

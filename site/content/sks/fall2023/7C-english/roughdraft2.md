@@ -15,6 +15,7 @@ image:
 ---
 ---
 ## Instructions
+* Due 11/14
 * Prepare a presentation about how we can stay safe in a dangerous situation (i.e. fire, tornado, tsunami).
 * Send a script AND audio recording practice.
 * Name the audio AND script file "StudentNumber_Name_RoughDraft.XXX"
