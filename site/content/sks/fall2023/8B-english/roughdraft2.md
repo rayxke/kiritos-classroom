@@ -17,6 +17,7 @@ image:
 ## Instructions
 * Due 11/14
 * Prepare a presentation describing a building or public space that makes a city or town more liveable.
+    * What is the name of the building or public space?
 	* Where will it be?
 	* What problem(s) will your building or public space solve?
 	* Explain in detail how your building or public space solves will solve the problem(s).
