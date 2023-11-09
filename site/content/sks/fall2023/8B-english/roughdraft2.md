@@ -17,9 +17,9 @@ image:
 ## Instructions
 * Due 11/14
 * Prepare a presentation describing a building or public space that makes a city or town more liveable.
-	* Make sure it relates to your topic/supports your message
-	* It is interesting
-	* Is easy to follow
+	* Where will it be?
+	* What problem(s) will your building or public space solve?
+	* Explain in detail how your building or public space solves will solve the problem(s).
 * This should be a PPT with audio recording AND the script.
 * Name the audio file "StudentNumber_Name_RoughDraft.XXX"
     * Example "80155_Kirito_RoughtDraft.pptx"
