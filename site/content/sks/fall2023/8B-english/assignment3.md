@@ -20,7 +20,7 @@ image:
 	* What is the name of the building or public space?
 	* Where will it be?
 	* What problem(s) does or will your building or public space solve?
-	* Explain in detail how your building or public space solves or will solve the problem(s).
+	* Explain in detail how your building or public space will solve the problem(s).
 * The presentation should be 3-5 minutes.
 * The Powerpoint should be NO MORE than 10 slides.
 * Powerpoint should NOT contain full sentences.
