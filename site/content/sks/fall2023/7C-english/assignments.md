@@ -20,7 +20,7 @@ intro:
         Speaking I
       link: sks/fall2023/7C-english/assignment2/
       disabled:
-     - image: /img/illustrations-coffee-gear.svg
+    - image: /img/illustrations-coffee-gear.svg
       text: >
         Speaking II Rough Draft
       link: sks/fall2023/7C-english/roughdraft2/
