@@ -7,32 +7,37 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Speaking 1 Rough Draft
+        Speaking I Rough Draft
       link: sks/fall2023/8B-english/roughdraft/
       disabled:
     - image: /img/illustrations-coffee.svg
       text: >
-        Assignment 1
+        Speaking I
       link: sks/fall2023/8B-english/assignment1/
       disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Assignment 2
+        Writing I
       link: sks/fall2023/8B-english/assignment2/
       disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Essay Corrections
+        Writing I Corrections
       link: sks/fall2023/8B-english/essay-corrections/
       disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
-        Assignment 3
+        Speaking II Rough Draft
+      link: sks/fall2023/8B-english/roughdraft2/
+      disabled:  
+    - image: /img/illustrations-tutorials.svg
+      text: >
+        Speaking II
       link: sks/fall2023/8B-english/assignment3/
       disabled:
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 4
+        Writing II
       link: sks/fall2023/8B-english/assignment4/
       disabled: disabled
 ---

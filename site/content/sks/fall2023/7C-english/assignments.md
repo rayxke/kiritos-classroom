@@ -7,7 +7,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Assignment 1
+        Writing I
       link: sks/fall2023/7C-english/assignment1/
       disabled:
     - image: /img/illustrations-coffee-gear.svg
@@ -17,17 +17,22 @@ intro:
       disabled:
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        Assignment 2
+        Speaking I
       link: sks/fall2023/7C-english/assignment2/
+      disabled:
+     - image: /img/illustrations-coffee-gear.svg
+      text: >
+        Speaking II Rough Draft
+      link: sks/fall2023/7C-english/roughdraft2/
       disabled:
     - image: /img/illustrations-tutorials.svg
       text: >
-        Assignment 3
+        Speaking II
       link: sks/fall2023/7C-english/assignment3/
       disabled:
     - image: /img/illustrations-meeting-space.svg
       text: >
-        Assignment 4
+        Writing II
       link: sks/fall2023/7C-english/assignment4/
       disabled: disabled
 ---
