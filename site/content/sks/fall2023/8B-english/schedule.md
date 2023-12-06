@@ -24,7 +24,7 @@ description: >-
 | 13 |  11/13-11/17         | Unit 9  |[Speaking II Rough Draft](sks/fall2023/8B-english/roughdraft2) |
 | 14 |  11/20-11/24         | Unit 9 | [Speaking II](sks/fall2023/8B-english/assignment3) |
 | 15 |  11/27-12/1          | Unit 9 | Essay II|
-| 16 |  12/4-12/8           | Unit 9 |             |
+| 16 |  12/4-12/8           | Unit 9 | [Writing II Corrections](sks/fall2023/8B-english/essay-corrections-2)            |
 | 17 |  12/11-12/15         | Self Study|            |
 | 18 |  12/18-12/22         | Final Exams |              |
 | 19 |  12/25-12/29         | Review |              |

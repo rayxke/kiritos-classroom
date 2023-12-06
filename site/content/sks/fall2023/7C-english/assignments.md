@@ -35,4 +35,9 @@ intro:
         Writing II
       link: sks/fall2023/7C-english/assignment4/
       disabled: disabled
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Writing II Corrections
+      link: sks/fall2023/7C-english/essay-corrections-2/
+      disabled:
 ---

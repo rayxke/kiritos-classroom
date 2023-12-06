@@ -40,4 +40,9 @@ intro:
         Writing II
       link: sks/fall2023/8B-english/assignment4/
       disabled: disabled
+    - image: /img/illustrations-meeting-space.svg
+      text: >
+        Writing II Corrections
+      link: sks/fall2023/8B-english/essay-corrections-2/
+      disabled:
 ---

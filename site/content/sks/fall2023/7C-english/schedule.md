@@ -23,7 +23,7 @@ description: >-
 | 13 |  11/13-11/17         | Unit 10 |[Speaking II Rough Draft](sks/fall2023/7C-english/roughdraft2)             |
 | 14 |  11/20-11/24         | Unit 10 |[Speaking II](sks/fall2023/7C-english/assignment3)|
 | 15 |  11/27-12/1          | Unit 10 |  Writing II   |
-| 16 |  12/4-12/8           | Unit 10 |             |
+| 16 |  12/4-12/8           | Unit 10 | [Writing II Corrections](sks/fall2023/7C-english/essay-corrections-2)            |
 | 17 |  12/11-12/15         | Self Study|           |
 | 18 |  12/18-12/22         | Final Exams|          |
 | 19 |  12/25-12/29         | Review |              |
