@@ -5,14 +5,14 @@ description: >-
 ---
 
 ---
-
+{{<table "mw8 center dt--fixed">}}
 | Week |          Dates          |                 Content                    |             Homework      |             
 |:---: |    :------------------: |             :-----------------------------:| :-------------------------:|
-|  1   |  3/4-3/8                | Unit 7 Part A |          |
-|  2   |  3/11-3/15              | Unit 7 Part B |          |
-|  3   |  3/18-3/22              | Unit 7 Part C |          |
-|  4   |  3/25-3/29              | Unit 7 Part D |          |
-|  5   |  3/27-4/5               | Unit 8 Part A |          |
+|  1   |  3/4-3/8                | Intro |          |
+|  2   |  3/11-3/15              | Unit 1 & Writing Process & Thesis Writing |          |
+|  3   |  3/18-3/22              | Unit 1 & MLA Format |          |
+|  4   |  3/25-3/29              | Unit 1 & Writing Workshop| Rough Draft |          |
+|  5   |  4/1-4/5                | **Tomb Sweeping Holiday** |          |
 |  6   |  4/8-4/12               | Unit 8 Part B |          |
 |  7   |  4/15-4/19              | **NO CLASS**  |          |
 |  8   |  4/22-4/26              | **Presentations** |[Assignment 1](sks/spring2024/10B-english/assignment1/)|

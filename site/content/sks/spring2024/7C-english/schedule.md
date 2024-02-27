@@ -12,7 +12,7 @@ description: >-
 |  2  |  3/11-3/15              | Intro and Unit 1 |          |
 |  3  |  3/18-3/22              | Unit 1  |          |
 |  4  |  3/25-3/29              | Unit 1  |          |
-|  5  |  3/27-4/5               | Unit 2  | [Assignment 1](sks/spring2024/7C-english/assignment1/)         |
+|  5  |  4/1-4/5                | Unit 2  | [Assignment 1](sks/spring2024/7C-english/assignment1/)         |
 |  6  |  4/8-4/12               | Unit 2  |          |
 |  7  |  4/15-4/19              | Unit 2  |[Assignment 2](sks/spring2024/7C-english/assignment2/)              |
 |  8  |  4/22-4/26              | Self-Study |       |
