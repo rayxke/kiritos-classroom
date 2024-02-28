@@ -9,14 +9,14 @@ link:
 ---
 ---
 ## Instructions
-- Due 4/11
+- Due 4/14
 - Submit a Portfolio Draft
 - The document should be in Times New Roman, size 12 font and double spaced
 - The recommended number of sources for the draft portfolio is 5 sources.
 - The file should be named "TeacherName_StudentNumber_Name_PortfolioDraft.docx"
+- Example "Bi_120155_Kirito_PortfolioDraft.docx"
 - Example "Bobby_120155_Kirito_PortfolioDraft.docx"
 - Example "Damon_120155_Kirito_PortfolioDraft.docx"
-- Example "Jon_120155_Kirito_PortfolioDraft.docx"
 - Example "Kevin_120155_Kirito_PortfolioDraft.docx"
 - Files not properly named **may receive a zero** for this homework.
 ## Tips

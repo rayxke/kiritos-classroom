@@ -9,7 +9,7 @@ link:
 ---
 ---
 ## Instructions
-- Due 4/7
+- Due 3/31
 - Submit a complete outline with title, section headings and a start of bibliography (3 sources at least)
 - The document should be in Times New Roman, size 12 font and double spaced
 - The document should be named "TeacherName_StudentNumber_StudentName_Outline.docx"
