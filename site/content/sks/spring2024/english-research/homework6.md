@@ -9,7 +9,7 @@ link:
 ---
 ---
 ## Instructions
-- Due 5/5
+- Due 5/3
 - Submit a complete first draft of your paper.
 - The document should be named "TeacherName_StudentNumber_Name_Draft.docx"
 - Example "Bi_120155_Kirito_Draft.docx"

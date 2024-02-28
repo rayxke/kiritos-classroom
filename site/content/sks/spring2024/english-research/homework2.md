@@ -9,9 +9,9 @@ link:
 ---
 ---
 ## Instructions
-- Due 3/17
+- Due 3/15
 - Submit a Concept Map
-- The file should be named "StudentNumber_Name_CMap.XXX"
-- Example "120156_Damon_CMap.jpg" or "120157_Kevin_CMap.png"
+- The file should be named "TeacherName_StudentNumber_Name_CMap.XXX"
+- Example "Damon_120156_Kirito_CMap.jpg" or "Damon_120157_Kirito_CMap.png"
 - Files not properly named **may receive a zero** for this homework. 
 
