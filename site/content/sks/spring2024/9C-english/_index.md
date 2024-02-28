@@ -1,5 +1,5 @@
 ---
-title: 10C English
+title: 9C English
 layout: grade
 image: /img/detective-pikachu-dance.gif
 heading: Class Goals
