@@ -1,11 +1,11 @@
 ---
-title: "Homework 7: Paper Draft"
+title: "Homework 6: Paper Draft"
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Homework 7
+    Submit Homework 6
 link: 
-    https://docs.google.com/forms/d/e/1FAIpQLSdCJV24V3AyyD_76s_09oAhV_WNNhKysdTmxYwBwrvDEFoKLw/viewform?usp=sf_link
+    https://docs.google.com/forms/d/e/1FAIpQLSdexnj6g2FKSXpvsSuQzll-1AhF7zqjBrYrH-HpldPS5hAgrg/viewform?usp=sf_link
 ---
 ---
 ## Instructions
