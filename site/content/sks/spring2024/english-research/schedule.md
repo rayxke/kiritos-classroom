@@ -2,27 +2,30 @@
 title: English Research Schedule
 layout: schedule
 description: >-
-    Assignments are due Sunday.
+    Assignments are due Sunday 11:59PM.
 ---
 
 ---
 {{<table "mw8 center dt--fixed">}}
 | Week|          Dates          |            Content             |             Homework       |             
 |:---:|    :------------------: | :-----------------------------:| :-------------------------:|
-|  1  |  3/4-3/8             | Intro  & What is a Research Paper?| [Homework 1 Due](https://forms.microsoft.com/r/KAX9rdFFBY)         |
-|  2  |  3/11-3/15           |Choosing a Topic  |  [Homework 2 Due](sks/spring2024/english-research/homework2)        |
-|  3  |  3/18-3/22           | Library Science Fundamentals  | [Homework 3 Due](https://forms.microsoft.com/r/rAqU8U0maS)|
-|  4  |  3/25-3/29           | Online Sources, Credibility and Outlining  |  [Homework 4 Due](https://forms.microsoft.com/r/9K9Y5S1y10) |
-|  5  |  4/1-4/5             | **Tomb Sweeping** |  |
-|  6  |  4/8-4/12            | Annotated Bibliography, MLA & APA Referencing |  [Homework 5 Due](sks/spring2024/english-research/homework5)         |
-|  7  |  4/15-4/19           | **Self Study**   |              |
-|  8  |  4/22-4/26           | **MidTerm Exams**|       |
-|  9  |  4/29-5/3            | **May 1 Holiday**|[Homework 6 Due](sks/spring2024/english-research/homework6)   |
-| 10  |  5/6-5/10            | Thesis Writing and Drafting  |    |
-| 11  |  5/13-5/17           | Review  | [Final Project Due](sks/spring2024/english-research/final)|
-| 12  |  5/20-5/24           | Review  | |  
-| 13  |  5/27-5/31           | **Self-Study**  | |
-| 14  |  6/3-6/7             | **Final Exams** |    |
+|  1  |  3/4-3/8                | Intro                          | [Homework 1 Due](https://forms.microsoft.com/r/KAX9rdFFBY)   |
+|  2  |  3/11-3/15              | Choosing a Topic               | [Homework 2 Due](sks/spring2024/english-research/homework2)  |
+|  3  |  3/18-3/22              | Library Science Fundamentals   | [Homework 3 Due](https://forms.microsoft.com/r/rAqU8U0maS)   |
+|     |                         | Online Sources, Credibility    |                                                              |
+|  4  |  3/25-3/29              | Outlining                      | [Homework 4 Due](sks/spring2024/english-research/homework4)   |
+|     |                         | Thesis Writing & Drafting      |                                                              |
+|  5  |  4/1-4/5                | **Tomb Sweeping**              |                                                              |
+|  6  |  4/8-4/12               | Annotated Bibliography         | [Homework 5 Due](sks/spring2024/english-research/homework5)  |
+|     |                         | MLA & APA Referencing          |                                                              |
+|  7  |  4/15-4/19              | **Self Study**                 |                                                              |
+|  8  |  4/22-4/26              | **MidTerm Exams**              |                                                              |
+|  9  |  4/29-5/3               | **May 1 Holiday**              | [Homework 6 Due](sks/spring2024/english-research/homework6)  |
+| 10  |  5/6-5/10               | Essay Corrections              |                                                              |
+| 11  |  5/13-5/17              | Review                         | [Final Project Due](sks/spring2024/english-research/final)   |
+| 12  |  5/20-5/24              | Review                         |                                                              |  
+| 13  |  5/27-5/31              | **Self-Study**                 |                                                              |
+| 14  |  6/3-6/7                | **Final Exams**                |                                                              |
 {{</table>}}
 
 ---
