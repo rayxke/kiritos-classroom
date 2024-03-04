@@ -20,13 +20,13 @@ description: >-
 - [Paraphrasing](https://docs.google.com/file/d/1t55KUwI9ch9Q5ZJvWd_gqIFxuXX4gHwd/edit?usp=docslist_api&filetype=mspresentation)
 
 ## Other Resources
-- [Engineering Resources & Websites](sks/spring2023/english-research/engineering)
+- [Engineering Resources & Websites](sks/spring2024/english-research/engineering)
 
 - [APA Paper Template](https://docs.google.com/document/d/1XYLYpv6UT1L5TINqOz0IR6Q9XAoSWBxv/edit?usp=sharing&ouid=106340071982720803011&rtpof=true&sd=true)
 
 - [MLA Paper Template](https://docs.google.com/document/d/1heyKJB0aHgCSFQR8IdlcZ0m6QTVDEWzh/edit?usp=share_link&ouid=106340071982720803011&rtpof=true&sd=true)
 
 ## Anonymous Feedback
-- Feel free to leave [anonymous feedback](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUNkQ5TDFMM1hDS0RWSjJGSk4xVEpERUxXQS4u) about the class.
+- Feel free to leave [anonymous feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZURTg1RDdORjRROERVMEFFVUtIM1BDV1Y1NC4u) about the class.
 
 ---
