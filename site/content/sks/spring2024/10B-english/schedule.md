@@ -13,7 +13,7 @@ description: >-
 |  3   |  3/18-3/22              | Unit 1 & MLA Format                          | [Homework 2: Rough Draft](sks/spring2024/10B-english/homework2/)         |
 |  4   |  3/25-3/29              | Unit 1 & Writing Workshop                    | [Homework 3: Presentation Techniques Quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg6HvWFsYWI1ElVJUNg5Ze9ZUNTlaSjlEWkpKUklGSVZTSEFGNzJCS1pJRy4u)  |
 |  5   |  4/1-4/5                | **Tomb Sweeping Holiday**                    | [Assignment 1](sks/spring2024/10B-english/assignment1/)          |
-|  6   |  4/8-4/12               | Presentations                                | [Assignment 2](sks/spring2024/9C-english/assignment2/)        |
+|  6   |  4/8-4/12               | Presentations                                | [Assignment 2](sks/spring2024/10B-english/assignment2/)        |
 |  7   |  4/15-4/19              | **Self-Study**                               |          |
 |  8   |  4/22-4/26              | **Midterm Exams**                            |           |
 |  9   |  4/29-5/3               | **May 1st Holiday**                          |          |
