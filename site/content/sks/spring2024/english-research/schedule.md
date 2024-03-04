@@ -2,7 +2,7 @@
 title: English Research Schedule
 layout: schedule
 description: >-
-    Assignments are due Sunday 11:59PM.
+    Assignments are due Friday 11:59PM.
 ---
 
 ---
