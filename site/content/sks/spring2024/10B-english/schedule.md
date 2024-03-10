@@ -28,4 +28,5 @@ description: >-
 |  18  |  7/1-7/5                | Final Exam                                   |          |
 |  19  |  7/8-7/12               | Review                                       | Summer Break Begins. Go home! |
 {{</table>}}
+
 ---
