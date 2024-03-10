@@ -1,27 +1,27 @@
 ---
-title: Assignment 4
+title: Speaking 2
 layout: assignment-turnin
 description: >-
-    Prepare a 3-5 minute Powerpoint presentation about your Movie Review.
-
-    The PPT should be no more than 10 slides.
-
-    The PPT should NOT contain full sentences. 
-
-    It should contain visual aids and short prompts to remind you of what to talk about.
 text: >
-    Submit Assignment 4 (10C1)
+    Submit Speaking 2
 link: 
     https://inbox.weiyun.com/jGgnjfnT
 image: 
     /img/surprised-pikachu.jpeg
-fenbie: Submit Assignment 4 (10C2)
-link2: https://inbox.weiyun.com/1IvajMOr
 ---
+## Instructions
+1. Prepare a presentation about a tech solution for a healthcare issue.
+2. Should be 3-5 minutes.
+3. The Powerpoint should be no more than 10 slides.
+4. The Powerpoint should NOT contain full sentences. 
+5. It should contain visual aids and short prompts to remind you of what to talk about.
+6. The file should be named "9CX_StudentNumber_Name_Speaking2.pptx"
+    - Example "9C1_90156_Kirito_Speaking2.pptx" or "9C2_90157_Kirito_Speaking2.pptx"
+    - Files not properly named will receive -5 for this assignment.
 ---
 ## Grading (20 pts.)
 - Submit the PPT on Time
-    - Submit on 12/4 AND bring it to class on a USB
+    - Submit on 6/2 AND bring it to class on a USB
 - Powerpoint **(5 pts.)**
     - Follow the guidelines we have discussed in class
     - Appropriate visual aid in powerpoint

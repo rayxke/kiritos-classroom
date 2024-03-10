@@ -1,41 +1,42 @@
 ---
-title: Assignment 3
+title: Writing 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 3 (10C1)
-text2: Download Template
+    Submit Writing 2
 link: 
     https://inbox.weiyun.com/cGzP3M8j
 image: 
     /img/surprised-pikachu.jpeg
-download:
-    /docs/Movie_Review_Template.docx
-fenbie: Submit Assignment 3 (10C2)
-link2: https://inbox.weiyun.com/e3Ppakoq
----
 ---
 ## Instructions
-Assignment 3 is a Movie Review. You will write a paper to analyze a movie of your choice. You should use the techniques we discussed in class to support your analysis namely supporting arguments and quote blending.
-
+1. Choose an example of a visual art form (e.g. a painting, a photograph, a piece of sculpture) and evaluate it using aesthetic criteria.
+2. Choose three criteria to evaluate the piece of art. Some examples of criteria include:
+    - Aesthetics
+    - Durability
+    - Function
+    - Historical and Cultural Context
+3. The file should be named "9CX_StudentNumber_Name_Writing2.docx"
+    - Example "9C1_90156_Kirito_Writing2.docx" or "9C2_90157_Kirito_Writing2.docx"
+    - Files not properly named will receive -5 for this assignment.
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 11/27
-    - Penalty for late submissions!
-    - Name the document "10CX_Name_StudentNumber.docx" 
+    - Submit on 5/31
+    - Penalty for late submissions (-10 for all late submissions)!
+    - Name the document "9CX_Name_StudentNumber.docx" 
 - Grammar and Punctation **(2.5 pts.)**
     - I will take off points for improper grammar and punctation.
 - Ideas & Organization **(10 pts.)**
     - How well do your points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-    - No need for MLA Format (You can celebrate...)
-    - Please make sure your paper is double spaced, size 12 Times New Roman font
+    - Proper MLA formatting
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
+    - Use at least 10 vocabulary words from Unit 3.
     - Proper use of idiomatic expressions
 - Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (5 paragraphs; 500 words or more)
+    - This essay should meet the minimum length requirements (5 paragraphs)
 - **No Papago (Or other translation software)** 
     - If I find out you used Papago *you will get a zero* ;)
     - Seriously. Don't do it. Just ask me for help instead! :)

@@ -1,49 +1,54 @@
 ---
-title: Assignment 2
+title: Speaking 1
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 2
-text2:
-    Download Template
+    Submit Speaking 1
 link: 
     https://inbox.weiyun.com/3kr0rtnq
-download:
-    /docs/MLA_Essay_Template.docx
 image: 
     /img/surprised-pikachu.jpeg
 ---
 ---
 ## Instructions
-Assignment 2 is a research paper. You can turn the presentation from Assignment 1 into a research paper. However you may also research a different career. The choice is yours!
+1. Prepare a presentation about whether animals should be kept in zoos or not.
+2. Should be 3-5 minutes.
+3. The Powerpoint should be no more than 10 slides.
+4. The Powerpoint should NOT contain full sentences. 
+5. It should contain visual aids and short prompts to remind you of what to talk about.
+6. The file should be named "9CX_StudentNumber_Name_Speaking1.pptx"
+    - Example "9C1_90156_Kirito_Speaking1.pptx" or "9C2_90157_Kirito_Speaking1.pptx"
+    - Files not properly named will receive -5 for this assignment.
 
 ---
 ## Grading (20 pts.)
-- Submit the Paper on Time!
-    - Submit on 11/11
-    - Penalty for late submissions!
-- Grammar and Punctation **(2.5 pts.)**
-    - This is a formal paper, I will take off points for improper grammar and punctation.
-- Ideas & Organization **(10 pts.)**
-    - How well do your researched points support the ideas that you introduce? 
-    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-    - Cite at least **three** sources for your paper
-    - The paper should be in MLA Format 
-- Linguistic Capability **(5 pts.)**
-    - Exceptional use of vocabulary
-    - Proper use of idiomatic expressions
-- Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (5 paragraphs; 700-800 words)
-- **No Papago (Or other translation software)** 
-    - If I find out you used Papago *you will get a zero* ;)
-    - Seriously. Don't do it. Just ask me for help instead! :)
+- Submit the PPT on Time
+    - Submit on 4/7 AND bring it to class on a USB
+- Powerpoint **(5 pts.)**
+    - Did you follow the guidelines we discussed in class?
+    - Appropriate visual aid in powerpoint
+- Ideas & Organization **(5 pts.)**
+    - Cite at least **three** sources for your presentation
+    - Do the sources cited provide relevant information?
+    - Does the presentation follow a logical order?
+    - Use 10 words from Unit 2.
+- Pronunciation **(5 pts.)**
+    - If it effects my understanding I will lower your grade.
+    - Look up the words you will use before presenting! 
+- Delivery **(5 pts.)**
+    - Eye Contact
+        - Do not read from a script
+    - Volume
+        - Make sure to speak loud enough for me and your classmates to hear you
+    - Time
+        - Does the presentation satisfy time requirements?
+        - Is time used effectively in the presentation? 
 ---
-
-## ***Remember to proofread your paper!***
+## ***Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
-Me: But Keary I turned in my paper why is my grade so low?
+Me: But Keary I presented why is my grade so low?
 
-Keary: Did you turn it in on time? Did you use Papago? Did you check the MLA formatting of your paper?
+Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts?
 

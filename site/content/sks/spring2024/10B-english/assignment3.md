@@ -9,43 +9,37 @@ link:
     https://inbox.weiyun.com/cGzP3M8j
 image: 
     /img/surprised-pikachu.jpeg
-download:
-    /docs/Movie_Review_Template.docx
-fenbie: Submit Assignment 3 (10C2)
-link2: https://inbox.weiyun.com/e3Ppakoq
----
 ---
 ## Instructions
-Assignment 3 is a Movie Review. You will write a paper to analyze a movie of your choice. You should use the techniques we discussed in class to support your analysis namely supporting arguments and quote blending.
-
+1. Describe how a person has made an impact on your life and what you gained from that experience.
+2. You may use this [template](/docs/MLA_Essay_Template.docx) to write your essay.
+3. 
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 11/27
-    - Penalty for late submissions!
-    - Name the document "10CX_Name_StudentNumber.docx" 
+    - Submit on 4/5
+    - Penalty for late submissions (-10  for all late submissions)!
 - Grammar and Punctation **(2.5 pts.)**
-    - I will take off points for improper grammar and punctation.
+    - This is a formal paper, I will take off points for improper grammar and punctation.
 - Ideas & Organization **(10 pts.)**
-    - How well do your points support the ideas that you introduce? 
+    - How well do your researched points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-    - No need for MLA Format (You can celebrate...)
-    - Please make sure your paper is double spaced, size 12 Times New Roman font
+    - The paper should be in MLA Format 
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
+    - Use at least 10 of the vocabulary words from Unit 1
     - Proper use of idiomatic expressions
 - Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (5 paragraphs; 500 words or more)
+    - This essay should meet the minimum length requirements (5 paragraphs)
 - **No Papago (Or other translation software)** 
     - If I find out you used Papago *you will get a zero* ;)
     - Seriously. Don't do it. Just ask me for help instead! :)
 ---
 
-***Friendly reminder: Remember to proofread your paper!***
+## ***Remember to proofread your paper!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Keary I turned in my paper why is my grade so low?
 
-Keary: Did you turn it in on time? Did you have a well supported analysis? How well did you use quote blending or sufficient examples from the movie?
-
+Keary: Did you turn it in on time? Did you use Papago? Did you check the MLA formatting of your paper?
