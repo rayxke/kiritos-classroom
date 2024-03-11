@@ -11,6 +11,7 @@ link:
 ## Instructions
 - Due 3/24
 - Submit the Rough Draft for your paper
+- You may use this [template](/docs/MLA_Essay_Template.docx) to write your rough draft.
 - The file should be named "10BX_StudentNumber_Name_Draft.docx"
 - Example "10B1_100156_Kirito_Draft.docx" or "10B2_100157_Kirito_Draft.docx"
 - Files not properly named **may receive a zero** for this homework. 
