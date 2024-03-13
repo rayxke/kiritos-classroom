@@ -11,7 +11,7 @@ image:
 ---
 ---
 ## Instructions
-- Due 5/17
+- Due 5/10
 - This assignment has **three** parts!
 - The paper should be named "TeacherName_StudentNumber_Name_Paper.docx"
 - Example "Bobby_120155_Kirito_Paper.docx"
