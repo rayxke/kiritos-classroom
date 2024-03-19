@@ -11,8 +11,8 @@ image:
 ---
 ---
 ## Instructions
-1. Prepare a presentation about whether animals should be kept in zoos or not.
-2. Should be 3-5 minutes.
+1. Prepare a presentation or group video about whether animals should be kept in zoos or not.
+2. Should be 3-5 minutes. For the video the time requirements are as follows: 2 people 6 minutes, 3 people 8 minutes, 4 people 10 minutes.
 3. The Powerpoint should be no more than 10 slides.
 4. The Powerpoint should NOT contain full sentences. 
 5. It should contain visual aids and short prompts to remind you of what to talk about.
