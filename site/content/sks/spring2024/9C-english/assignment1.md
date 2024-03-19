@@ -5,7 +5,7 @@ description: >-
 text: >
     Submit Writing 1
 link: 
-    https://inbox.weiyun.com/1YqYHsDG
+    https://inbox.weiyun.com/Eqi8J2mJ
 image: 
     /img/surprised-pikachu.jpeg
 ---

@@ -1,12 +1,12 @@
 ---
-title: Assignment 3
+title: Writing 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 3 (10C1)
+    Submit Writing 2 
 text2: Download Template
 link: 
-    https://inbox.weiyun.com/cGzP3M8j
+    https://inbox.weiyun.com/BJtNtrln
 image: 
     /img/surprised-pikachu.jpeg
 ---
@@ -17,7 +17,7 @@ image:
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
-    - Submit on 4/5
+    - Submit on 5/31
     - Penalty for late submissions (-10  for all late submissions)!
 - Grammar and Punctation **(2.5 pts.)**
     - This is a formal paper, I will take off points for improper grammar and punctation.

@@ -1,11 +1,11 @@
 ---
-title: Assignment 1
+title: Writing 1
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 1
+    Submit Writing 1
 link: 
-    https://inbox.weiyun.com/1YqYHsDG
+    https://inbox.weiyun.com/xbX5HLHF
 image: 
     /img/surprised-pikachu.jpeg
 ---
