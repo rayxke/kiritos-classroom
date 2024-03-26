@@ -25,7 +25,7 @@ image:
     - The paper should be in MLA Format 
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
-    - Use at least 10 of the vocabulary words from Unit 1
+    - Use at least 4 of the vocabulary words from Unit 1
     - Proper use of idiomatic expressions
 - Appropriate Length **(2.5 pts.)**
     - This essay should meet the minimum length requirements (5 paragraphs)
