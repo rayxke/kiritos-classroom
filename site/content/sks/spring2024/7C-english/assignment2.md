@@ -1,62 +1,53 @@
 ---
-title: Assignment 2
+title: Speaking 1
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 2 (7C1)
+    Submit Speaking 1
 link: 
-    https://inbox.weiyun.com/sijQpA1Q
+    https://inbox.weiyun.com/sxlFHqbg
 image: 
     /img/surprised-pikachu.jpeg
-fenbie: Submit Assignment 2 (7C2)
-link2: https://inbox.weiyun.com/ToGuXi7O
 ---
 ---
 ## Instructions
-#### 1. Think about a time when you felt one of the following emotions.
-* Happiness
-* Fear
-* Surprise
-* Sadness
-* Anger
-* Disgust 
+#### 1. Prepare a 3 minute presentation about a time when you had a positive experience.
+
 #### 2. Describe it 
 * What happened?
 * How did you feel?
 * What did you do?
 * What did you learn from the experience?
-#### 3. The essay should be **at least three paragraphs** (**300-400 words**)
-* Intro
-* Body
-* Conclusion
 
 ---
 ## Grading (20 pts.)
-- Submit the Paper on Time!
-    - Submit on 4/14
-    - Penalty for late submissions! 
-	- When you submit, name the file "ClassNumber_StudentNumber_Name.docx"
-    	- Example 7C1_70155_Keary.docx
-- Grammar and Punctation **(2.5 pts.)**
-    - This is a formal paper, I will take off points for improper grammar and punctation.
-- Ideas & Organization **(10 pts.)**
-    - How well do your researched points support the ideas that you introduce? 
-    - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
-    - Introduction paragraph should have a hook and thesis statement.
-    - Conclusion should have a concluding sentence and restate the thesis.
-- Linguistic Capability **(5 pts.)**
-    - Exceptional use of vocabulary
-    - Proper use of idiomatic expressions
-- Appropriate Length **(2.5 pts.)**
-    - This essay should meet the minimum length requirements (3 paragraphs; 300-400 words)
-- **No Papago (Or other translation software)** 
-    - If I find out you used Papago *you will get a zero* ;)
-    - Seriously. Don't do it. Just ask me for help instead! :)
+* Submit the PPT on Time
+	* Submit on 4/7 AND bring it to class on a USB
+    * LATE Submission has a Penalty (-1 Point for each day late)
+    * When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
+		* Example "7C1_70155_Keary.pptx"
+* Powerpoint (5 pts.)
+	* Did you follow the guidelines we discussed in class?
+	* Appropriate visual aid in powerpoint
+* Ideas & Organization (5 pts.)
+    * Does the presentation follow a logical order?
+    * Is it Interesting?
+* Pronunciation (5 pts.)
+	* If it effects my understanding I will lower your grade.
+	* Look up the words you will use before presenting!
+* Delivery (5 pts.)
+	* Eye Contact
+	    * Do not read from a script
+    * Volume
+	    * Make sure to speak loud enough for me and your classmates to hear you
+	* Time
+	    * Does the presentation satisfy time requirements?
+	    * Is time used effectively in the presentation?
 ---
-## ***Remember to proofread your paper!***
+## ***Remember to rehearse your presentation!***
 
         Don’t be like this at the end of the semester!
 
 Me: But Keary I turned in my assignment why is my grade so low?
 
-Keary: Did you have good grammar and spelling? Did your essay include an introduction, body and conclusion?
+Keary: Did you have good eye contact, pronunciation and volume? Did your Powerpoint include good visual aids and short sentence prompts? 
