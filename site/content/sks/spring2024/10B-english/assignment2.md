@@ -27,7 +27,7 @@ image:
     - Cite at least **three** sources for your presentation
     - Do the sources cited provide relevant information?
     - Does the presentation follow a logical order?
-    - Use 10 words from Unit 2.
+    - Use 4 words from Unit 2.
 - Pronunciation **(5 pts.)**
     - If it effects my understanding I will lower your grade.
     - Look up the words you will use before presenting! 
