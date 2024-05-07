@@ -10,7 +10,7 @@ link:
 ---
 ## Instructions
 - Due 5/19
-- Submit the Rough Draft for [your paper](/sks/spring2024/assignment3)
+- Submit the Rough Draft for [your paper](/sks/spring2024/10B-english/assignment3)
 - The file should be named "10BX_StudentNumber_Name_Draft.docx"
 - Example "10B1_100156_Kirito_Draft.docx" or "10B2_100157_Kirito_Draft.docx"
 - Files not properly named **may receive a zero** for this homework. 

@@ -13,7 +13,6 @@ image:
 ## Instructions
 1. Write an essay about a healthcare issue of your choice and describe your opinion of how to the best actions to take.
 2. You may use this [template](/docs/MLA_Essay_Template.docx) to write your essay.
-3. 
 ---
 ## Grading (20 pts.)
 - Submit the Paper on Time!
