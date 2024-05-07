@@ -10,7 +10,7 @@ link:
 ---
 ## Instructions
 - Due 5/12
-- Submit the Rough Draft for your paper
+- Submit the  Outline for [your paper](/sks/spring2024/assignment3)
 - The file should be named "10BX_StudentNumber_Name_Outline.docx"
 - Example "10B1_100156_Kirito_Outline.docx" or "10B2_100157_Kirito_Outline.docx"
 - Files not properly named **may receive a zero** for this homework. 

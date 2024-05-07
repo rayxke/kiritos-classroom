@@ -11,7 +11,7 @@ image:
     /img/surprised-pikachu.jpeg
 ---
 ## Instructions
-1. Describe how a person has made an impact on your life and what you gained from that experience.
+1. Write an essay about a healthcare issue of your choice and describe your opinion of how to the best actions to take.
 2. You may use this [template](/docs/MLA_Essay_Template.docx) to write your essay.
 3. 
 ---
