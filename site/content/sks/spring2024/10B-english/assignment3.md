@@ -11,7 +11,7 @@ image:
     /img/surprised-pikachu.jpeg
 ---
 ## Instructions
-1. Write an essay about a healthcare issue of your choice and describe your opinion of how to the best actions to take.
+1. Write an essay about a healthcare issue of your choice and describe your opinion of the best actions to take.
 2. You may use this [template](/docs/MLA_Essay_Template.docx) to write your essay.
 ---
 ## Grading (20 pts.)
@@ -24,9 +24,10 @@ image:
     - How well do your researched points support the ideas that you introduce? 
     - Very clearly defined Introduction, Body and Conclusion paragraphs that work together
     - The paper should be in MLA Format 
+    - The paper should have three sources cited in both the Works Cited section and as in-text citation
 - Linguistic Capability **(5 pts.)**
     - Exceptional use of vocabulary
-    - Use at least 10 of the vocabulary words from Unit 1
+    - Use at least 4 of the vocabulary words from Unit 3
     - Proper use of idiomatic expressions
 - Appropriate Length **(2.5 pts.)**
     - This essay should meet the minimum length requirements (5 paragraphs)
