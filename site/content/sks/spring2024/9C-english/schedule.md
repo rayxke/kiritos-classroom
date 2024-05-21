@@ -19,7 +19,7 @@ description: >-
 |  9  |  4/29-5/3               | **May 1st Holiday**                        |                            |
 | 10  |  5/6-5/10               | Unit 2                                     | [Homework 4: Outline](sks/spring2024/9C-english/homework4/)        |
 | 11  |  5/13-5/17              | Unit 2                                     | [Homework 5: Rough Draft](sks/spring2024/9C-english/homework5/)    |
-| 12  |  5/20-5/24              | Unit 3                                     |                            |
+| 12  |  5/20-5/24              | Unit 3                                     | [Homework 6: Annotated Bibliography](sks/spring2024/9C-english/homework6/)                            |
 | 13  |  5/27-5/31              | Unit 3                                     | [Writing 2](sks/spring2024/9C-english/assignment3)    |
 | 14  |  6/3-6/7                | Presentations                              | [Speaking 2](sks/spring2024/9C-english/assignment4)    |
 | 15  |  6/10-6/14              | Review                                     |                            |

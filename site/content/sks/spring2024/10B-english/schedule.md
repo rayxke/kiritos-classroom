@@ -19,7 +19,7 @@ description: >-
 |  9   |  4/29-5/3               | **May 1st Holiday**                          |          |
 |  10  |  5/6-5/10               | Unit 2 Part A                                | [Homework 4: Outline II](sks/spring2024/10B-english/homework4/)     |
 |  11  |  5/13-5/17              | Unit 2 Part B                                | [Homework 5: Draft II](sks/spring2024/10B-english/homework5/)                  |
-|  12  |  5/20-5/24              | Unit 2 Part C                                | |
+|  12  |  5/20-5/24              | Unit 2 Part C                                | [Homework 6: Annotated Bibliography](sks/spring2024/10B-english/homework6/) |
 |  13  |  5/27-5/31              | Unit 3 Part A                                |  [Writing 2](sks/spring2024/10B-english/assignment3)|
 |  14  |  6/3-6/7                | Unit 3 Part B                                | |
 |  15  |  6/10-6/14              | Unit 3 Part C                                |             |
