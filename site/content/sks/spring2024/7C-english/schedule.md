@@ -20,10 +20,10 @@ description: >-
 |  9  |  4/29-5/3               | Midterm Exams |          |
 | 10  |  5/6-5/10               | Unit 2  |       |
 | 11  |  5/13-5/17              | Unit 3  | |
-| 12  |  5/20-5/24              | Unit 3  | [Assignment 3](sks/spring2024/7C-english/assignment3)      |
+| 12  |  5/20-5/24              | Unit 3  | [Speaking 2](sks/spring2024/7C-english/assignment3)      |
 | 13  |  5/27-5/31              | Unit 3  | |
-| 14  |  6/3-6/7                | Unit 3  | Assignment 4|
-| 15  |  6/10-6/14              | Review  |             |
+| 14  |  6/3-6/7                | Unit 3  | |
+| 15  |  6/10-6/14              | Writing 2|             |
 | 16  |  6/17-6/21              |Self-Study|
 | 17  |  6/24-6/28              | Final Exams |             |
 | 18  |  7/1-7/5                | Review|          |

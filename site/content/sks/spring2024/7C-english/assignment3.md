@@ -1,15 +1,13 @@
 ---
-title: Assignment 3
+title: Speaking 2
 layout: assignment-turnin
 description: >-
 text: >
-    Submit Assignment 3 (7C1)
+    Submit Speaking 2
 link: 
-    https://inbox.weiyun.com/XiaoKmui
+    https://inbox.weiyun.com/YwhkVcHi
 image: 
     /img/surprised-pikachu.jpeg
-fenbie: Submit Assignment 3 (7C2)
-link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ---
 ## Instructions
@@ -21,7 +19,7 @@ link2: https://inbox.weiyun.com/EoYPGtnx
 ---
 ## Grading (20 pts.)
 * Submit the PPT on Time
-	* Submit on 5/21 AND bring it to class on a USB
+	* Submit on 6/2 AND bring it to class on a USB
     * LATE Submission has a Penalty (-1 Point for each day late)
 	* When you submit, name the file "ClassNumber_StudentNumber_Name.pptx" 
 		* Example "7C1_70155_Keary.pptx"
