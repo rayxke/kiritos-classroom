@@ -21,7 +21,7 @@ image:
 ---
 ## Grading (20 pts.)
 - Submit the PPT on Time
-    - Submit on 6/2 AND bring it to class on a USB
+    - Submit on 6/9 AND bring it to class on a USB
 - Powerpoint **(5 pts.)**
     - Follow the guidelines we have discussed in class
     - Appropriate visual aid in powerpoint
