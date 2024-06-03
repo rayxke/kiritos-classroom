@@ -21,11 +21,11 @@ description: >-
 |  11  |  5/13-5/17              | Unit 2 Part B                                | [Homework 5: Draft II](sks/spring2024/10B-english/homework5/)                  |
 |  12  |  5/20-5/24              | Unit 2 Part C                                | [Homework 6: Annotated Bibliography](sks/spring2024/10B-english/homework6/) |
 |  13  |  5/27-5/31              | Unit 3 Part A                                |  [Writing 2](sks/spring2024/10B-english/assignment3)|
-|  14  |  6/3-6/7                | Unit 3 Part B                                |[Speaking 2](sks/spring2024/10B-english/assignment4) |
-|  15  |  6/10-6/14              | Unit 3 Part C                                |             |
-|  16  |  6/17-6/21              | **Presentations**                            | |
-|  17  |  6/24-6/28              | Self-Study                                   |             |
-|  18  |  7/1-7/5                | Final Exam                                   |          |
+|  14  |  6/3-6/7                | **Presentations**                            |[Speaking 2](sks/spring2024/10B-english/assignment4) |
+|  15  |  6/10-6/14              | Review                                       |             |
+|  16  |  6/17-6/21              | Self-Study                                   |               |
+|  17  |  6/24-6/28              | Final Exam                                   |             |
+|  18  |  7/1-7/5                | Review                                       |          |
 |  19  |  7/8-7/12               | Review                                       | Summer Break Begins. Go home! |
 {{</table>}}
 
