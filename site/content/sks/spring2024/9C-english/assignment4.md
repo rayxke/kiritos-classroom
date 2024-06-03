@@ -27,7 +27,6 @@ image:
     - Appropriate visual aid in powerpoint
 - Ideas & Organization **(5 pts.)**
     - Does the presentation follow a logical order?
-    - Is your review supported by examples from the movie
     - How well do you lead the audience to your conclusion?
 - Pronunciation **(5 pts.)**
     - If it effects my understanding I will lower your grade.
@@ -40,7 +39,6 @@ image:
     - Time
         - Does the presentation satisfy time requirements?
         - Is time used effectively in the presentation? 
-        - If you think your presentation needs more than 5 minutes ask me first! Otherwise overtime also lowers your grade.
 
 ***Remember to rehearse your presentation!***
 
